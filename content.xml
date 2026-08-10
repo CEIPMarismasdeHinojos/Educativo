@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1786269193342</value>
+    <value>1786354172994</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -30710,44 +30710,24 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mshenzod-5r95185qc</odePageId>
+  <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
-  <pageName>Protocolo ante la detección NEAE</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <pageName>Protocolo Seneca ante la detección NEAE</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Protocolo ante la detección NEAE</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Protocolo ante la detección NEAE</value>
+      <value>Protocolo Seneca ante la detección NEAE</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>Protocolo Seneca ante la detección NEAE</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mshenzod-5r95185qc</odePageId>
-      <odeBlockId>block-mshenzok-8lle51f88</odeBlockId>
+      <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
+      <odeBlockId>block-msn161xx-q6o3ztvwo</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
@@ -30775,28 +30755,52 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mshenzod-5r95185qc</odePageId>
-          <odeBlockId>block-mshenzok-8lle51f88</odeBlockId>
-          <odeIdeviceId>idevice-mshenzok-79cu833gq</odeIdeviceId>
+          <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
+          <odeBlockId>block-msn161xx-q6o3ztvwo</odeBlockId>
+          <odeIdeviceId>idevice-msn161xx-mwd9bgdrh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<h3 dir="ltr" style="padding-left: 60px;"><span style="text-decoration: underline;">PROCEDIMIENTO ANTE LA DETECCION DE NEAE.</span></h3>
-<p dir="ltr"><span>LOS INDICIOS PUEDEN APARECER BIEN EN LA EVALUACION INICIAL , O EN CUALQUIER MOMENTO DEL CURSO ESCOLAR </span><span>.</span><span> </span><span>UNA VEZ DETECTADOS SE PROCEDE A REFLEJARLOS EN<strong> <span style="color: #ff0000;">LA REUNION DE EV . INICIAL </span></strong></span><strong><span style="color: #ff0000;">(ACTA DE EV. INICIAL)</span></strong><span> </span><span> O <strong><span style="color: #ff0000;">DEL EQUIPO DOCENTE </span></strong></span><strong><span style="color: #ff0000;">(ACTAS DE EQUIPOS DOCENTES O DE EVALUACIÓN TRIMESTRAL) .</span></strong></p>
-<p dir="ltr"><span>A.- EN DICHAS REUNIONES SE ACORDARÁN UN SERIE DE MEDIDAS GENERALES A APLICAR Y UN CALENDARIO DE SEGUIMIENTO DE LAS MEDIDAS. SE DEBE RELLENAR</span><span> </span><a href="https://drive.google.com/file/d/1Eps3CLBj8Ss8AyvHG9fVGkdO19_Q0VPZ/view?usp=sharing"><span>1A.- ACTA DE DETECCION DE INDICIOS INFANTIL</span></a><span> </span><span> </span><a href="https://drive.google.com/file/d/1hVt3qBoOBHrzen9gOXaE64VaWef32B7l/view?usp=sharing"><span>1ºB.- ACTA DE DETECCION DE INDICIOS PRIMARIA</span></a></p>
-<p dir="ltr"><strong><span style="color: #ff0000;"><span style="color: #000000;">B.- DESPUÉS DEBEMOS INFORMAR A LAS FAMILIAS DE DICHOS INDICIOS Y DE LAS MEDIDAS ADOPTADAS.</span><span> </span><a href="https://drive.google.com/file/d/1gDLvWE7rDI9Y8FMXg5XcxRYaI-3m_RPr/view?usp=sharing"><span>2.- ACTA DE COMUNICACIÓN A LAS FAMILIAS DE INDICIOS NEAE </span></a></span></strong></p>
-<p dir="ltr"><span>C.- PASADO UN PERÍODO MÍNIMO DE 3 MESES SE DEBE REALIZAR REUNION DEL EQUIPO DOCENTE PARA EL SEGUIMIENTO. </span><span> <strong><span style="color: #ff0000;">ACTA DE EQUIPO DOCENTE O DE EVALUACIÓN TRIMESTRAL .</span></strong></span></p>
-<p dir="ltr"><span>D.- SI LAS MEDIDAS </span><span>SI</span><span> </span><span>HAN MEJORADO LAS DIFICULTADES , SE CONTINUA APLICANDO LAS MISMAS.  </span><span style="color: #ff0000;"><strong>ACTA DE EQUIPO DOCENTE O DE EVALUACIÓN TRIMESTRAL.</strong></span></p>
-<p dir="ltr"><span>E.- SI LAS MEDIDAS</span><span> </span><span>NO </span><span>HAN SIDO EFECTIVAS O SON INSUFICIENTES. </span><span> ACTA DE EQUIPO DOCENTE</span><span> </span><span>O DE EVALUACIÓN TRIMESTRAL.</span></p>
-<p dir="ltr"><span>SE PONE EN CONOCIMIENTO DE LA JEFATURA DE ESTUDIOS Y SE RELLENA LA </span><a href="https://drive.google.com/file/d/16BAgBTg5-6TZvs7EpGWczCnJluVkgn08/view?usp=sharing"><span>3.- SOLICITUD DE EVALUACIÓN PSICOPEDAGÓGICA</span></a><span>, </span><span>SE ENTREGARÁ A LA JEFATURA QUE JUNTO AL ORIENTADOR/A DEL CENTRO </span><span>PRIORIZARAN LOS CASOS.</span><span></span></p>
-<p dir="ltr"><span>Y SE RELLENARÁ EL DOCUMENTO:  <a href="https://drive.google.com/file/d/1hCR9LTdkbIfl3PPpwCLm1KTjeLeKcFdi/view?usp=sharing">4.- INFORMACIÓN A LOS PADRES DEL INICIO DE EVALUACIÓN PSICOPEDAGÓGICA</a></span></p>
-<p dir="ltr"><span>F.- SE PROCEDERÁ A LA REALIZACIÓN DE LA EVALUACION PSICOPEDAGÓGICA CON LA COLABORACION DE LA FAMILIA Y LOS DOCENTES. UNA VEZ FINALIZADA LA EVALUACIÓN PSICOPEDAGÓGICA , SE DETERMINARÁ LA NEAE Y SE PROPONDRÁS UN TIPO DE RESPUETA EDUCATIVA. </span></p>
-<ol>
-<li dir="ltr"><span>SE DARA INFORMACIÓN Y ORIENTACIONES A LA FAMILIA O TUTORES/AS LEGALES.</span></li>
-<li dir="ltr"><span>SE DARA INFORMACIÓN Y ORIENTACIONES AL TUTOR/A DEL ALUMNO/A</span></li>
-<li dir="ltr"><span>SE DARA INFORMACIÓN AL EQUIPO DIRECTIVO Y AL AULA DE INTEGRACIÓN  DEL CENTRO</span></li>
-</ol>
-<h5 dir="ltr"><span style="text-decoration: underline;"><span style="color: #800000;"><strong>TODA LA DOCUMENTACIÓN DE LAS DIFERENTES FASES DEBEN SER ENTREGADAS A JEFATURA DE ESTUDIOS</strong></span></span></h5>
-<p style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #800000;"><strong><img src="{{context_path}}/content/resources/neae.png" width="747" height="1035" alt="neae" /></strong></span></span></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<h3 dir=\"ltr\" style=\"padding-left: 60px;\"><span style=\"text-decoration: underline;\">PROCEDIMIENTO ANTE LA DETECCION DE NEAE.</span></h3>\n<p dir=\"ltr\"><span>LOS INDICIOS PUEDEN APARECER BIEN EN LA EVALUACION INICIAL , O EN CUALQUIER MOMENTO DEL CURSO ESCOLAR </span><span>.</span><span> </span><span>UNA VEZ DETECTADOS SE PROCEDE A REFLEJARLOS EN<strong> <span style=\"color: #ff0000;\">LA REUNION DE EV . INICIAL </span></strong></span><strong><span style=\"color: #ff0000;\">(ACTA DE EV. INICIAL)</span></strong><span> </span><span> O <strong><span style=\"color: #ff0000;\">DEL EQUIPO DOCENTE </span></strong></span><strong><span style=\"color: #ff0000;\">(ACTAS DE EQUIPOS DOCENTES O DE EVALUACIÓN TRIMESTRAL) .</span></strong></p>\n<p dir=\"ltr\"><span>A.- EN DICHAS REUNIONES SE ACORDARÁN UN SERIE DE MEDIDAS GENERALES A APLICAR Y UN CALENDARIO DE SEGUIMIENTO DE LAS MEDIDAS. SE DEBE RELLENAR</span><span> </span><a href=\"https://drive.google.com/file/d/1Eps3CLBj8Ss8AyvHG9fVGkdO19_Q0VPZ/view?usp=sharing\"><span>1A.- ACTA DE DETECCION DE INDICIOS INFANTIL</span></a><span> </span><span> </span><a href=\"https://drive.google.com/file/d/1hVt3qBoOBHrzen9gOXaE64VaWef32B7l/view?usp=sharing\"><span>1ºB.- ACTA DE DETECCION DE INDICIOS PRIMARIA</span></a></p>\n<p dir=\"ltr\"><strong><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">B.- DESPUÉS DEBEMOS INFORMAR A LAS FAMILIAS DE DICHOS INDICIOS Y DE LAS MEDIDAS ADOPTADAS.</span><span> </span><a href=\"https://drive.google.com/file/d/1gDLvWE7rDI9Y8FMXg5XcxRYaI-3m_RPr/view?usp=sharing\"><span>2.- ACTA DE COMUNICACIÓN A LAS FAMILIAS DE INDICIOS NEAE </span></a></span></strong></p>\n<p dir=\"ltr\"><span>C.- PASADO UN PERÍODO MÍNIMO DE 3 MESES SE DEBE REALIZAR REUNION DEL EQUIPO DOCENTE PARA EL SEGUIMIENTO. </span><span> <strong><span style=\"color: #ff0000;\">ACTA DE EQUIPO DOCENTE O DE EVALUACIÓN TRIMESTRAL .</span></strong></span></p>\n<p dir=\"ltr\"><span>D.- SI LAS MEDIDAS </span><span>SI</span><span> </span><span>HAN MEJORADO LAS DIFICULTADES , SE CONTINUA APLICANDO LAS MISMAS.  </span><span style=\"color: #ff0000;\"><strong>ACTA DE EQUIPO DOCENTE O DE EVALUACIÓN TRIMESTRAL.</strong></span></p>\n<p dir=\"ltr\"><span>E.- SI LAS MEDIDAS</span><span> </span><span>NO </span><span>HAN SIDO EFECTIVAS O SON INSUFICIENTES. </span><span> ACTA DE EQUIPO DOCENTE</span><span> </span><span>O DE EVALUACIÓN TRIMESTRAL.</span></p>\n<p dir=\"ltr\"><span>SE PONE EN CONOCIMIENTO DE LA JEFATURA DE ESTUDIOS Y SE RELLENA LA </span><a href=\"https://drive.google.com/file/d/16BAgBTg5-6TZvs7EpGWczCnJluVkgn08/view?usp=sharing\"><span>3.- SOLICITUD DE EVALUACIÓN PSICOPEDAGÓGICA</span></a><span>, </span><span>SE ENTREGARÁ A LA JEFATURA QUE JUNTO AL ORIENTADOR/A DEL CENTRO </span><span>PRIORIZARAN LOS CASOS.</span><span></span></p>\n<p dir=\"ltr\"><span>Y SE RELLENARÁ EL DOCUMENTO:  <a href=\"https://drive.google.com/file/d/1hCR9LTdkbIfl3PPpwCLm1KTjeLeKcFdi/view?usp=sharing\">4.- INFORMACIÓN A LOS PADRES DEL INICIO DE EVALUACIÓN PSICOPEDAGÓGICA</a></span></p>\n<p dir=\"ltr\"><span>F.- SE PROCEDERÁ A LA REALIZACIÓN DE LA EVALUACION PSICOPEDAGÓGICA CON LA COLABORACION DE LA FAMILIA Y LOS DOCENTES. UNA VEZ FINALIZADA LA EVALUACIÓN PSICOPEDAGÓGICA , SE DETERMINARÁ LA NEAE Y SE PROPONDRÁS UN TIPO DE RESPUETA EDUCATIVA. </span></p>\n<ol>\n<li dir=\"ltr\"><span>SE DARA INFORMACIÓN Y ORIENTACIONES A LA FAMILIA O TUTORES/AS LEGALES.</span></li>\n<li dir=\"ltr\"><span>SE DARA INFORMACIÓN Y ORIENTACIONES AL TUTOR/A DEL ALUMNO/A</span></li>\n<li dir=\"ltr\"><span>SE DARA INFORMACIÓN AL EQUIPO DIRECTIVO Y AL AULA DE INTEGRACIÓN  DEL CENTRO</span></li>\n</ol>\n<h5 dir=\"ltr\"><span style=\"text-decoration: underline;\"><span style=\"color: #800000;\"><strong>TODA LA DOCUMENTACIÓN DE LAS DIFERENTES FASES DEBEN SER ENTREGADAS A JEFATURA DE ESTUDIOS</strong></span></span></h5>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><span style=\"color: #800000;\"><strong><img src=\"{{context_path}}/content/resources/neae.png\" width=\"747\" height=\"1035\" alt=\"neae\" /></strong></span></span></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 dir="ltr" style="padding-left: 60px;"><span style="text-decoration: underline;">PROCEDIMIENTO A REALIZAR <strong>EN SENECA</strong> ANTE LA DETECCION DE NEAE.</span></h3>
+<p dir="ltr"><span>PARA REALIZAR CORRECTAMENTE EL PROTOCOLO DE SOLICITUD DE EV.PSICOPEDAGÓGICA HAY QUE HACER <strong>OBLIGATORIAMENTE EN SENECA . </strong>ES MUY IMPORTANTE SER ESTRICTOS CON LAS FECHAS PARA PODER REALIZAR EL PROCESO CON LA MAYOR CELERIDAD POSIBLE, PUES EL SISTEMA SENECA OBLIGA A CUMPLIR EL PROCESO MARCADO DE 3 MESES DE MEDIDAS PUESTAS ANTES DE PODER REALIZAR LOS PASOS DE SOLICITUD DE EVALUACION PSICOPEDAGÓGICA. LOS PASOS A REALIZAR SON OBLIGATORIOS Y EN EL ORDEN INDICADO, ES PRIMORDIAL CUMPLIMENTAR LOS PASOS 1 Y 2 LO ANTES POSIBLE Y QUE LA JEFATURA VALIDE EN EL APSO 3 PARA INICIAR LA CUENTA DE LOS 3 MESES.</span></p>
+<p dir="ltr"><span>ESTA ES LA PANTALLA QUE OS VA A SALIR AL DAR DE ALTA UN ALUMNO/A E INICIAR EL PROCESO. MANUAL DEL PROCESO AQUI</span></p>
+<p dir="ltr"><span><img src="{{context_path}}/content/resources/Captura de pantalla 2026-08-10 a las 11.44.22.png" width="1710" height="625" alt="SENECA DETECCION MENU" /></span><span> <span style="color: #e03e2d;"><strong><span style="font-size: 14pt;">1.- DETECCIÓN DE INDICIOS NEAE</span></strong></span>. <span style="font-size: 14pt; color: #000000;">(<strong>URGENTE) </strong></span></span></p>
+<p dir="ltr"><span>LOS INDICIOS PUEDEN APARECER BIEN DESDE LA EVALUACION INICIAL , O EN CUALQUIER MOMENTO DEL CURSO ESCOLAR </span><span>.</span><span> </span><span>UNA VEZ DETECTADOS SE PROCEDE A REFLEJARLOS EN EL APARTADO 1 DE LA DETECCION DE INDICIOS DE SENECA, ES UN CUESTIONARIOS CON DESPLEGABLES Y QUE UNA VEZ RELLENO Y VALIDADO, SE DA AL BOTON DE LA IMPRESORA, SE GENERA Y SE FIRMA MEDIANTE LA BANDEJA DE FIRMAS PARA PODER PASAR AL SIGUIENTE PASO.</span></p>
+<p dir="ltr"><span><img src="{{context_path}}/content/resources/Captura de pantalla 2026-08-10 a las 11.47.14.png" width="806" height="303" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p dir="ltr"><strong><span style="color: #e03e2d; font-size: 14pt;"> 2.- REUNIÓN EQUIPO DOCENTE (I) <span style="color: #000000;">(URGENTE) </span></span><span style="text-decoration: underline;"><span style="color: #e03e2d; font-size: 12pt; text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><span style="color: #e03e2d; text-decoration: underline;">OJO NO MARCAR NUNCA CASILLA 3.5</span></span></span></span></strong></p>
+<p dir="ltr"><span><img src="{{context_path}}/content/resources/Captura de pantalla 2026-08-10 a las 12.25.29.png" width="809" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p dir="ltr"><span>PARA ESTE PASO DEBEMOS APROVECHAR SOBRETODO <strong><span style="color: #ff0000;">LA REUNION DE EV . INICIAL </span></strong></span><strong><span style="color: #ff0000;">(ACTA DE EV. INICIAL)</span></strong><span> PARA PODER ESTABLECER AHI EL INICIO DE LAS MEDIDAS A TOMAR CON EL ALUMNO/A DE MODO QUE SE PUEDA REALIZAR, RELLENAR Y FIRMAR EN <strong>SENECA</strong></span><span> EL SEGUNDO PASOS . TAMBIÉN SE PUEDEN APROVECHAR <span style="color: #e03e2d;"><strong>REUNIONES</strong></span> <strong><span style="color: #ff0000;">DEL EQUIPO DOCENTE </span></strong></span><strong><span style="color: #ff0000;">(ACTAS DE EQUIPOS DOCENTES O DE EVALUACIÓN TRIMESTRAL)  O CONVOCAR REUNIONES EXTRAORDINARIAS Y/O ESPECÍFICAS </span></strong><span style="color: #000000;">PARA ABORDAR ESTAS CUESTIONES.</span></p>
+<p dir="ltr"><span>EN DICHAS REUNIONES SE ACORDARÁN UN SERIE DE MEDIDAS GENERALES A APLICAR Y UN CALENDARIO DE SEGUIMIENTO DE LAS MEDIDAS.</span></p>
+<p dir="ltr"><span>SI MARCAMOS LA CASILLA 3.5 DESDE EL EOE NOS PEDIRÁN MODIFICAR ESTE APARTADO RETRASANDO LA FECHA DE INICIO DE LOS 3 MESES DE MEDIDAS ADOPTADAS Y LA POSIBLE EVALUACION PSICOPEDAGÓGICA.</span></p>
+<p dir="ltr"><span><strong><span style="font-size: 14pt; color: #e03e2d;"></span></strong></span><br /></p>
+<p dir="ltr"><span><strong><span style="font-size: 14pt; color: #e03e2d;">3.- TOMA DE CONOCIMIENTO DE LA JEFATURA (I)</span> <span style="font-size: 14pt; color: #000000;">(URGENTE)</span></strong></span><span></span></p>
+<p dir="ltr">DESDE LA JEFATURA SE VERIFICA LA INFORMACION Y SE VALIDA, DESDE ESE MOMENTO SE INICIAN LOS 3 MESES DE MEDIDAS QUE SE DEBEN APLICAR Y VALORAR SU EFECTIVIDAD EN EL ALUMNO/A.</p>
+<p><span style="font-size: 14pt; color: #e03e2d;"><strong></strong></span><br /></p>
+<p><span style="font-size: 14pt; color: #e03e2d;"><strong>4.- REUNIÓN CON LA FAMILIA(I) </strong></span></p>
+<p dir="ltr"><span style="color: #ff0000;"><span style="color: #000000;">A CONTINUACIÓN LOS TUTORES/AS DEBEN REUNIRSE E INFORMAR A LAS FAMILIAS DE LOS INDICIOS DETECTADOS Y DE LAS MEDIDAS ADOPTADAS PARA ATAJARLOS. UNA VEZ REALIZADA LA REUNIÓN SE RELLENA EL APARTADO CORRESPONDIENTE EN EL PROCESO Y TODO LO INDICADO SE VALIDA. ESTO LLEGA A LAS FAMILIAS A TRAVES DE IPASEN QUE DAN SU VISTO BUENO Y SE INCORPORA AL PROCESO.</span></span><span style="text-decoration: underline;"><span style="color: #34495e; font-size: 12pt; text-decoration: underline;"><strong></strong></span></span></p>
+<p dir="ltr"><span style="color: #ff0000;"><span style="color: #000000;"></span></span></p>
+<p><span style="text-decoration: underline; font-size: 14pt;"><span style="color: #34495e; text-decoration: underline;"><strong>DESDE EL PASO 3 SE HAN DE ESPERAR 3 MESES PARA PODER CONTINUAR EL PROCEDIMIENTO YA QUE SENECA NO PERMITE REALIZAR NADA MAS SIN HABER CUMPLIDO ESE TIEMPO</strong></span></span></p>
+<p><strong><span style="font-size: 14pt; color: #e03e2d;"></span></strong><br /></p>
+<p><strong><span style="font-size: 14pt; color: #e03e2d;">5.- REUNIÓN DE EQUIPO DOCENTE(II). SEGUIMIENTO </span></strong></p>
+<p>TRAS LOS 3 MESES PRESCRIPTIVOS DE MEDIDAS ADOPTADAS , SI DEBE REUNIR AL EQUIPO DOCENTE PARA VALORAR SI LAS MISMAS HAN TENIDO EFECTO. SE REFLEJA TODO EN EL APARTADO DE SENECA AL EFECTO Y SI LAS MEDIDAS NO HAN SIDO EFECTIVAS SE PROCEDE AL SIGUIENTE PASO DEL PROCESO. SE DEBEN APROVECHAR PARA DICHA VALORACIÓN <strong>REUNIONES DE EQUIPO DOCENTE, DE EVALUACIÓN O CONVOCAR UNA REUNION ESPECÍFICA Y/O EXTRAORDINARIA AL EFECTO.</strong></p>
+<p><span style="font-size: 14pt; color: #e03e2d;"><strong></strong></span></p>
+<p><span style="font-size: 14pt; color: #e03e2d;"><strong>6.- TOMA DE CONOCIMIENTO DE LA JEFATURA (II)</strong></span></p>
+<p>DESDE LA JEFATURA SE VERIFICA LA INFORMACION Y SE VALIDA, PARA PASAR AL SIGUIENTE PASO DEL PROCESO.</p>
+<p><span style="color: #e03e2d;"><strong><span style="font-size: 14pt;"></span></strong></span></p>
+<p><span style="color: #e03e2d;"><strong><span style="font-size: 14pt;">7.- REUNIÓN CON LA FAMILIA(II) </span></strong></span></p>
+<p>A CONTINUACIÓN LOS TUTORES/AS DEBEN REUNIRSE E INFORMAR A LAS FAMILIAS DE LOS INDICIOS DETECTADOS Y DE QUE LAS MEDIDAS ADOPTADAS PARA ATAJARLOS NO HAN SURTIDO EFECTO. Y QUE SE VA A REALIZAR LA SOLICITUD DE EVAL. PSICOPEDAGÓGICA AL EOE DEL CENTRO. SE RELLENA, VALIDA Y FIRMA PARA QUE LAS FAMILIAS LAS RECIBAN POR IPASEN Y LA VALIDEN.</p>
+<p></p>
+<p><strong><span style="font-size: 14pt; color: #e03e2d;">8.- SOLICITUD DE EVALUACIÓN PSICOPEDAGÓGICA. </span></strong></p>
+<p>A CONTINUACIÓN LOS TUTORES/AS RELLENAN, VALIDAR Y FIRMAR EN SENECA EL FORMULARIO DE SOLICITUD DE EVALUACIÓN PSICOPEDAGÓGICA PARA QUE ESTA SEA VALIDADA POR LA JEFATURA DE ESTUDIOS Y SE LE REMITA POR SENECA AL EOE DEL CENTRO.</p>
+<p dir="ltr"><span></span><br /></p>
+<p><strong><span style="font-size: 14pt; color: #e03e2d;">9.- VALORACIÓN DE LA SOLICITUD DE EVAL. PSICOPEDAGÓGICA</span></strong></p>
+<p>DESDE EL EOE SE HACE UNA REVISIÓN DE TODO EL PROCESO Y SE RESPONDE A LA SOLICITUD DE EVALUACION QUE SE PASA POR SENECA A JEFATURA DE ESTUDIOS PARA SU VALIDACIÓN. </p>
+<p></p>
+<p><span style="color: #e03e2d;"><strong><span style="font-size: 14pt;">10.- TOMA DE CONOCIMIENTO DE LA JEFATURA (IV)</span></strong></span></p>
+<p>DESDE LA JEFATURA SE VERIFICA LA INFORMACION Y SE VALIDA, PARA PROCEDER A LA EVALUA.PSICOPEDAGÓGICA.</p>
+<h5 dir="ltr"></h5>
+<p style="text-align: center;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-msn161xx-mwd9bgdrh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 dir=\"ltr\" style=\"padding-left: 60px;\"><span style=\"text-decoration: underline;\">PROCEDIMIENTO A REALIZAR <strong>EN SENECA</strong> ANTE LA DETECCION DE NEAE.</span></h3>\n<p dir=\"ltr\"><span>PARA REALIZAR CORRECTAMENTE EL PROTOCOLO DE SOLICITUD DE EV.PSICOPEDAGÓGICA HAY QUE HACER <strong>OBLIGATORIAMENTE EN SENECA . </strong>ES MUY IMPORTANTE SER ESTRICTOS CON LAS FECHAS PARA PODER REALIZAR EL PROCESO CON LA MAYOR CELERIDAD POSIBLE, PUES EL SISTEMA SENECA OBLIGA A CUMPLIR EL PROCESO MARCADO DE 3 MESES DE MEDIDAS PUESTAS ANTES DE PODER REALIZAR LOS PASOS DE SOLICITUD DE EVALUACION PSICOPEDAGÓGICA. LOS PASOS A REALIZAR SON OBLIGATORIOS Y EN EL ORDEN INDICADO, ES PRIMORDIAL CUMPLIMENTAR LOS PASOS 1 Y 2 LO ANTES POSIBLE Y QUE LA JEFATURA VALIDE EN EL APSO 3 PARA INICIAR LA CUENTA DE LOS 3 MESES.</span></p>\n<p dir=\"ltr\"><span>ESTA ES LA PANTALLA QUE OS VA A SALIR AL DAR DE ALTA UN ALUMNO/A E INICIAR EL PROCESO. MANUAL DEL PROCESO AQUI</span></p>\n<p dir=\"ltr\"><span><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-08-10 a las 11.44.22.png\" width=\"1710\" height=\"625\" alt=\"SENECA DETECCION MENU\" /></span><span> <span style=\"color: #e03e2d;\"><strong><span style=\"font-size: 14pt;\">1.- DETECCIÓN DE INDICIOS NEAE</span></strong></span>. <span style=\"font-size: 14pt; color: #000000;\">(<strong>URGENTE) </strong></span></span></p>\n<p dir=\"ltr\"><span>LOS INDICIOS PUEDEN APARECER BIEN DESDE LA EVALUACION INICIAL , O EN CUALQUIER MOMENTO DEL CURSO ESCOLAR </span><span>.</span><span> </span><span>UNA VEZ DETECTADOS SE PROCEDE A REFLEJARLOS EN EL APARTADO 1 DE LA DETECCION DE INDICIOS DE SENECA, ES UN CUESTIONARIOS CON DESPLEGABLES Y QUE UNA VEZ RELLENO Y VALIDADO, SE DA AL BOTON DE LA IMPRESORA, SE GENERA Y SE FIRMA MEDIANTE LA BANDEJA DE FIRMAS PARA PODER PASAR AL SIGUIENTE PASO.</span></p>\n<p dir=\"ltr\"><span><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-08-10 a las 11.47.14.png\" width=\"806\" height=\"303\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p dir=\"ltr\"><strong><span style=\"color: #e03e2d; font-size: 14pt;\"> 2.- REUNIÓN EQUIPO DOCENTE (I) <span style=\"color: #000000;\">(URGENTE) </span></span><span style=\"text-decoration: underline;\"><span style=\"color: #e03e2d; font-size: 12pt; text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"><span style=\"color: #e03e2d; text-decoration: underline;\">OJO NO MARCAR NUNCA CASILLA 3.5</span></span></span></span></strong></p>\n<p dir=\"ltr\"><span><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-08-10 a las 12.25.29.png\" width=\"809\" height=\"362\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p dir=\"ltr\"><span>PARA ESTE PASO DEBEMOS APROVECHAR SOBRETODO <strong><span style=\"color: #ff0000;\">LA REUNION DE EV . INICIAL </span></strong></span><strong><span style=\"color: #ff0000;\">(ACTA DE EV. INICIAL)</span></strong><span> PARA PODER ESTABLECER AHI EL INICIO DE LAS MEDIDAS A TOMAR CON EL ALUMNO/A DE MODO QUE SE PUEDA REALIZAR, RELLENAR Y FIRMAR EN <strong>SENECA</strong></span><span> EL SEGUNDO PASOS . TAMBIÉN SE PUEDEN APROVECHAR <span style=\"color: #e03e2d;\"><strong>REUNIONES</strong></span> <strong><span style=\"color: #ff0000;\">DEL EQUIPO DOCENTE </span></strong></span><strong><span style=\"color: #ff0000;\">(ACTAS DE EQUIPOS DOCENTES O DE EVALUACIÓN TRIMESTRAL)  O CONVOCAR REUNIONES EXTRAORDINARIAS Y/O ESPECÍFICAS </span></strong><span style=\"color: #000000;\">PARA ABORDAR ESTAS CUESTIONES.</span></p>\n<p dir=\"ltr\"><span>EN DICHAS REUNIONES SE ACORDARÁN UN SERIE DE MEDIDAS GENERALES A APLICAR Y UN CALENDARIO DE SEGUIMIENTO DE LAS MEDIDAS.</span></p>\n<p dir=\"ltr\"><span>SI MARCAMOS LA CASILLA 3.5 DESDE EL EOE NOS PEDIRÁN MODIFICAR ESTE APARTADO RETRASANDO LA FECHA DE INICIO DE LOS 3 MESES DE MEDIDAS ADOPTADAS Y LA POSIBLE EVALUACION PSICOPEDAGÓGICA.</span></p>\n<p dir=\"ltr\"><span><strong><span style=\"font-size: 14pt; color: #e03e2d;\"></span></strong></span><br /></p>\n<p dir=\"ltr\"><span><strong><span style=\"font-size: 14pt; color: #e03e2d;\">3.- TOMA DE CONOCIMIENTO DE LA JEFATURA (I)</span> <span style=\"font-size: 14pt; color: #000000;\">(URGENTE)</span></strong></span><span></span></p>\n<p dir=\"ltr\">DESDE LA JEFATURA SE VERIFICA LA INFORMACION Y SE VALIDA, DESDE ESE MOMENTO SE INICIAN LOS 3 MESES DE MEDIDAS QUE SE DEBEN APLICAR Y VALORAR SU EFECTIVIDAD EN EL ALUMNO/A.</p>\n<p><span style=\"font-size: 14pt; color: #e03e2d;\"><strong></strong></span><br /></p>\n<p><span style=\"font-size: 14pt; color: #e03e2d;\"><strong>4.- REUNIÓN CON LA FAMILIA(I) </strong></span></p>\n<p dir=\"ltr\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\">A CONTINUACIÓN LOS TUTORES/AS DEBEN REUNIRSE E INFORMAR A LAS FAMILIAS DE LOS INDICIOS DETECTADOS Y DE LAS MEDIDAS ADOPTADAS PARA ATAJARLOS. UNA VEZ REALIZADA LA REUNIÓN SE RELLENA EL APARTADO CORRESPONDIENTE EN EL PROCESO Y TODO LO INDICADO SE VALIDA. ESTO LLEGA A LAS FAMILIAS A TRAVES DE IPASEN QUE DAN SU VISTO BUENO Y SE INCORPORA AL PROCESO.</span></span><span style=\"text-decoration: underline;\"><span style=\"color: #34495e; font-size: 12pt; text-decoration: underline;\"><strong></strong></span></span></p>\n<p dir=\"ltr\"><span style=\"color: #ff0000;\"><span style=\"color: #000000;\"></span></span></p>\n<p><span style=\"text-decoration: underline; font-size: 14pt;\"><span style=\"color: #34495e; text-decoration: underline;\"><strong>DESDE EL PASO 3 SE HAN DE ESPERAR 3 MESES PARA PODER CONTINUAR EL PROCEDIMIENTO YA QUE SENECA NO PERMITE REALIZAR NADA MAS SIN HABER CUMPLIDO ESE TIEMPO</strong></span></span></p>\n<p><strong><span style=\"font-size: 14pt; color: #e03e2d;\"></span></strong><br /></p>\n<p><strong><span style=\"font-size: 14pt; color: #e03e2d;\">5.- REUNIÓN DE EQUIPO DOCENTE(II). SEGUIMIENTO </span></strong></p>\n<p>TRAS LOS 3 MESES PRESCRIPTIVOS DE MEDIDAS ADOPTADAS , SI DEBE REUNIR AL EQUIPO DOCENTE PARA VALORAR SI LAS MISMAS HAN TENIDO EFECTO. SE REFLEJA TODO EN EL APARTADO DE SENECA AL EFECTO Y SI LAS MEDIDAS NO HAN SIDO EFECTIVAS SE PROCEDE AL SIGUIENTE PASO DEL PROCESO. SE DEBEN APROVECHAR PARA DICHA VALORACIÓN <strong>REUNIONES DE EQUIPO DOCENTE, DE EVALUACIÓN O CONVOCAR UNA REUNION ESPECÍFICA Y/O EXTRAORDINARIA AL EFECTO.</strong></p>\n<p><span style=\"font-size: 14pt; color: #e03e2d;\"><strong></strong></span></p>\n<p><span style=\"font-size: 14pt; color: #e03e2d;\"><strong>6.- TOMA DE CONOCIMIENTO DE LA JEFATURA (II)</strong></span></p>\n<p>DESDE LA JEFATURA SE VERIFICA LA INFORMACION Y SE VALIDA, PARA PASAR AL SIGUIENTE PASO DEL PROCESO.</p>\n<p><span style=\"color: #e03e2d;\"><strong><span style=\"font-size: 14pt;\"></span></strong></span></p>\n<p><span style=\"color: #e03e2d;\"><strong><span style=\"font-size: 14pt;\">7.- REUNIÓN CON LA FAMILIA(II) </span></strong></span></p>\n<p>A CONTINUACIÓN LOS TUTORES/AS DEBEN REUNIRSE E INFORMAR A LAS FAMILIAS DE LOS INDICIOS DETECTADOS Y DE QUE LAS MEDIDAS ADOPTADAS PARA ATAJARLOS NO HAN SURTIDO EFECTO. Y QUE SE VA A REALIZAR LA SOLICITUD DE EVAL. PSICOPEDAGÓGICA AL EOE DEL CENTRO. SE RELLENA, VALIDA Y FIRMA PARA QUE LAS FAMILIAS LAS RECIBAN POR IPASEN Y LA VALIDEN.</p>\n<p></p>\n<p><strong><span style=\"font-size: 14pt; color: #e03e2d;\">8.- SOLICITUD DE EVALUACIÓN PSICOPEDAGÓGICA. </span></strong></p>\n<p>A CONTINUACIÓN LOS TUTORES/AS RELLENAN, VALIDAR Y FIRMAR EN SENECA EL FORMULARIO DE SOLICITUD DE EVALUACIÓN PSICOPEDAGÓGICA PARA QUE ESTA SEA VALIDADA POR LA JEFATURA DE ESTUDIOS Y SE LE REMITA POR SENECA AL EOE DEL CENTRO.</p>\n<p dir=\"ltr\"><span></span><br /></p>\n<p><strong><span style=\"font-size: 14pt; color: #e03e2d;\">9.- VALORACIÓN DE LA SOLICITUD DE EVAL. PSICOPEDAGÓGICA</span></strong></p>\n<p>DESDE EL EOE SE HACE UNA REVISIÓN DE TODO EL PROCESO Y SE RESPONDE A LA SOLICITUD DE EVALUACION QUE SE PASA POR SENECA A JEFATURA DE ESTUDIOS PARA SU VALIDACIÓN. </p>\n<p></p>\n<p><span style=\"color: #e03e2d;\"><strong><span style=\"font-size: 14pt;\">10.- TOMA DE CONOCIMIENTO DE LA JEFATURA (IV)</span></strong></span></p>\n<p>DESDE LA JEFATURA SE VERIFICA LA INFORMACION Y SE VALIDA, PARA PROCEDER A LA EVALUA.PSICOPEDAGÓGICA.</p>\n<h5 dir=\"ltr\"></h5>\n<p style=\"text-align: center;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -30816,8 +30820,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mshenzod-5r95185qc</odePageId>
-      <odeBlockId>block-mshenzok-knw5atcd7</odeBlockId>
+      <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
+      <odeBlockId>block-msn161xx-lwp4rwlgp</odeBlockId>
       <blockName>External Web Site</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -30845,9 +30849,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mshenzod-5r95185qc</odePageId>
-          <odeBlockId>block-mshenzok-knw5atcd7</odeBlockId>
-          <odeIdeviceId>idevice-mshenzok-9rph2fwkb</odeIdeviceId>
+          <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
+          <odeBlockId>block-msn161xx-lwp4rwlgp</odeBlockId>
+          <odeIdeviceId>idevice-msn161xx-jtuouodla</odeIdeviceId>
           <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
           <htmlView><![CDATA[]]></htmlView>
           <jsonProperties><![CDATA[{"height":"300"}]]></jsonProperties>
@@ -30870,8 +30874,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mshenzod-5r95185qc</odePageId>
-      <odeBlockId>block-mshenzok-1elofb3tl</odeBlockId>
+      <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
+      <odeBlockId>block-msn161xx-dmxetovwy</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
@@ -30899,9 +30903,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mshenzod-5r95185qc</odePageId>
-          <odeBlockId>block-mshenzok-1elofb3tl</odeBlockId>
-          <odeIdeviceId>idevice-mshenzok-usn3g10xf</odeIdeviceId>
+          <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
+          <odeBlockId>block-msn161xx-dmxetovwy</odeBlockId>
+          <odeIdeviceId>idevice-msn161xx-uziy4k81f</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<h4><span style="text-decoration: underline;">CARPETA CON LOS DOCUMENTOS DEL PROTOCOLO NEAE</span></h4>
 <div style="border: 1px solid #ccc; padding: 10px; text-align: center;"><iframe width="300" height="150" style="width: 100%; height: 500px; border: 0;" src="https://drive.google.com/embeddedfolderview?id=1ZjMKBkAbDj8JfGK81Ya012QX4X0ndlQj#grid">
@@ -30931,7 +30935,7 @@
   <odePageId>page-mshenzod-mao4rpkud</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Documentación útil</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31028,7 +31032,7 @@
   <odePageId>page-mshenzod-rwyjxfssu</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Evaluación</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31066,7 +31070,7 @@
   <odePageId>page-mshenzod-lrx24lrx5</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Repositorio Documental</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31162,7 +31166,7 @@
   <odePageId>page-mshenzod-kt08dnwba</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Eficacia Lectora</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
