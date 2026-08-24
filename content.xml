@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1786354172994</value>
+    <value>1787568726865</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -29387,27 +29387,27 @@
           <odeBlockId>block-mshenzoj-fcccv0n6s</odeBlockId>
           <odeIdeviceId>idevice-mshenzok-v7o0z3qsi</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<h4><span style="text-decoration: underline;">INSTRUCCIONES PARA CUMPLIMENTAR EL HORARIO DE EXCLUSIVAS Y NO REGULAR EN SÉNECA</span></h4>
-<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">El<span> </span></span><span class="C9DxTc ">horario regular</span><span class="C9DxTc "><span> </span>debe sumar 29 horas y para rellenar  las horas de exclusivas se deben de grabar de la siguiente manera:</span><span class="C9DxTc "> </span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">LUNES, Exclusiva 1 (15:30 A 16:30)</span><span class="C9DxTc "><span> </span>: Programación de actividades educativas </span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">LUNES, Exclusiva 2 (16:30 A 17:30)</span><span class="C9DxTc ">:  Programación de actividades educativas       </span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">LUNES, Exclusiva 3(17:30 A 18:30)</span><span class="C9DxTc ">: Reuniones Equipo Ciclo y en su caso con Dptos IES       </span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">LUNES, Exclusiva 4 (18:30 A 19:30): </span><span class="C9DxTc ">Tutoría de Atención a Padres y Madres  </span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc "></span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">Para el horario<span> </span></span><span class="C9DxTc ">no regular</span><span class="C9DxTc "><span> </span>se debe grabar 1 h. repartida entre las distintas actividades, por ejemplo:</span><span class="C9DxTc "> </span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Actividad de formación y perfeccionamiento:  0,15 m.</span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Asistencia a Claustro de Profesores/as:  0,15 m</span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Asistencia a reuniones de Equipos Educativos:  0,15 m.</span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Asistencia a sesiones de evaluación:  0,15 m.</span><span class="C9DxTc "> </span></p>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><span style="text-decoration: underline;">INSTRUCCIONES PARA CUMPLIMENTAR EL HORARIO DE EXCLUSIVAS Y NO REGULAR EN SÉNECA</span></h4>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">El<span> </span></span><strong><span class="C9DxTc ">horario regular</span></strong><span class="C9DxTc "><span> </span>debe sumar <strong>27 horas</strong>, de ellas 23,5 son de docencia directa (22,5 h de clases lectivas y 1h de vigilancia de recreo), el resto de horas de recreo (1,5 h ) serán destinadas a actividades no lectivas propias del horario regular al igual que las realizadas en las exclusivas (Programación de actividades Educativas).</span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">En las medias horas que <strong>NO SE TENGA VIGILANCIA DEL RECREO, </strong>se debe rellenar con <span style="color: #e03e2d;">Programación de actividades Educativas</span></span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">Para rellenar  las horas de exclusivas se deben de grabar de la siguiente manera:</span><span class="C9DxTc "> </span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">     LUNES, Exclusiva 1(16:00-17:00)</span><span class="C9DxTc ">: <span style="color: #e03e2d;">Reuniones Equipo Ciclo y en su caso con Dptos IES </span>     </span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">     LUNES, Exclusiva 2 (17:00-18:00): </span><span class="C9DxTc "><span style="color: #e03e2d;">Tutoría de Atención a Padres y Madres </span> </span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span class="C9DxTc ">Para el <strong>horario </strong></span><strong><span class="C9DxTc ">no regular</span></strong><span class="C9DxTc "><span> </span>se debe grabar <strong>1 h.</strong> repartida entre las distintas actividades, por ejemplo:</span><span class="C9DxTc "> </span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Actividad de formación y perfeccionamiento:  <span style="color: #e03e2d;">0,15 m.</span></span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Asistencia a Claustro de Profesores/as:  <span style="color: #e03e2d;">0,15 m</span></span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Asistencia a reuniones de Equipos Educativos:  <span style="color: #e03e2d;">0,15 m.</span></span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke " style="padding-left: 30px;"><span class="C9DxTc ">Asistencia a sesiones de evaluación:  <span style="color: #e03e2d;">0,15 m.</span></span><span class="C9DxTc "> </span></p>
 <p dir="ltr" class="zfr3Q CDt4Ke "><strong><span class="C9DxTc ">El profesorado que además pertenezca a Consejo Escolar, Equipo Técnico o Equipo Directivo distribuirá la hora entre todos los apartados pero el </span><span class="C9DxTc ">computo total no puede superar la hora.</span></strong></p>
 <p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #ff0000;"><strong><span class="C9DxTc ">El horario tiene que estar grabado en Séneca  antes del día 30 de septiembre.</span></strong></span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #ff0000;"><strong><span class="C9DxTc "></span></strong></span></p>
 <p dir="ltr" class="zfr3Q CDt4Ke "><span style="text-decoration: underline;"><span style="color: #000000;"><span class="C9DxTc ">VIDEO PARA GRABACION EN EL HORARIO </span></span></span></p>
 <p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #000000;"><span class="C9DxTc "><span><iframe width="560" height="314" src="https://www.youtube.com/embed/7JAFHHvA_X8" allowfullscreen="allowfullscreen"></iframe><br /></span></span></span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #000000;"><span class="C9DxTc "><span></span></span></span></p>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #000000;"><span class="C9DxTc "><span></span></span></span><br /></p>
 <p dir="ltr" class="zfr3Q CDt4Ke "><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><span class="C9DxTc ">VIDEO PARA GRABACION EN EL HORARIO DE MEDIAS HORAS</span></span></span></p>
-<p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #000000;"><span class="C9DxTc "><span><iframe width="560" height="314" src="https://www.youtube.com/embed/_jyDQRimKCo" allowfullscreen="allowfullscreen"></iframe><br /></span></span></span></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<h4><span style=\"text-decoration: underline;\">INSTRUCCIONES PARA CUMPLIMENTAR EL HORARIO DE EXCLUSIVAS Y NO REGULAR EN SÉNECA</span></h4>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">El<span> </span></span><span class=\"C9DxTc \">horario regular</span><span class=\"C9DxTc \"><span> </span>debe sumar 29 horas y para rellenar  las horas de exclusivas se deben de grabar de la siguiente manera:</span><span class=\"C9DxTc \"> </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">LUNES, Exclusiva 1 (15:30 A 16:30)</span><span class=\"C9DxTc \"><span> </span>: Programación de actividades educativas </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">LUNES, Exclusiva 2 (16:30 A 17:30)</span><span class=\"C9DxTc \">:  Programación de actividades educativas       </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">LUNES, Exclusiva 3(17:30 A 18:30)</span><span class=\"C9DxTc \">: Reuniones Equipo Ciclo y en su caso con Dptos IES       </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">LUNES, Exclusiva 4 (18:30 A 19:30): </span><span class=\"C9DxTc \">Tutoría de Atención a Padres y Madres  </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \"></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">Para el horario<span> </span></span><span class=\"C9DxTc \">no regular</span><span class=\"C9DxTc \"><span> </span>se debe grabar 1 h. repartida entre las distintas actividades, por ejemplo:</span><span class=\"C9DxTc \"> </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Actividad de formación y perfeccionamiento:  0,15 m.</span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Asistencia a Claustro de Profesores/as:  0,15 m</span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Asistencia a reuniones de Equipos Educativos:  0,15 m.</span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Asistencia a sesiones de evaluación:  0,15 m.</span><span class=\"C9DxTc \"> </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><strong><span class=\"C9DxTc \">El profesorado que además pertenezca a Consejo Escolar, Equipo Técnico o Equipo Directivo distribuirá la hora entre todos los apartados pero el </span><span class=\"C9DxTc \">computo total no puede superar la hora.</span></strong></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #ff0000;\"><strong><span class=\"C9DxTc \">El horario tiene que estar grabado en Séneca  antes del día 30 de septiembre.</span></strong></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #ff0000;\"><strong><span class=\"C9DxTc \"></span></strong></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"text-decoration: underline;\"><span style=\"color: #000000;\"><span class=\"C9DxTc \">VIDEO PARA GRABACION EN EL HORARIO </span></span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \"><span><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/7JAFHHvA_X8\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span></span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \"><span></span></span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"><span class=\"C9DxTc \">VIDEO PARA GRABACION EN EL HORARIO DE MEDIAS HORAS</span></span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \"><span><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/_jyDQRimKCo\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span></span></span></p>"}]]></jsonProperties>
+<p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #000000;"><span class="C9DxTc "><span><iframe width="560" height="314" src="https://www.youtube.com/embed/_jyDQRimKCo" allowfullscreen="allowfullscreen"></iframe><br /></span></span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mshenzok-v7o0z3qsi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><span style=\"text-decoration: underline;\">INSTRUCCIONES PARA CUMPLIMENTAR EL HORARIO DE EXCLUSIVAS Y NO REGULAR EN SÉNECA</span></h4>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">El<span> </span></span><strong><span class=\"C9DxTc \">horario regular</span></strong><span class=\"C9DxTc \"><span> </span>debe sumar <strong>27 horas</strong>, de ellas 23,5 son de docencia directa (22,5 h de clases lectivas y 1h de vigilancia de recreo), el resto de horas de recreo (1,5 h ) serán destinadas a actividades no lectivas propias del horario regular al igual que las realizadas en las exclusivas (Programación de actividades Educativas).</span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">En las medias horas que <strong>NO SE TENGA VIGILANCIA DEL RECREO, </strong>se debe rellenar con <span style=\"color: #e03e2d;\">Programación de actividades Educativas</span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">Para rellenar  las horas de exclusivas se deben de grabar de la siguiente manera:</span><span class=\"C9DxTc \"> </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">     LUNES, Exclusiva 1(16:00-17:00)</span><span class=\"C9DxTc \">: <span style=\"color: #e03e2d;\">Reuniones Equipo Ciclo y en su caso con Dptos IES </span>     </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">     LUNES, Exclusiva 2 (17:00-18:00): </span><span class=\"C9DxTc \"><span style=\"color: #e03e2d;\">Tutoría de Atención a Padres y Madres </span> </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \">Para el <strong>horario </strong></span><strong><span class=\"C9DxTc \">no regular</span></strong><span class=\"C9DxTc \"><span> </span>se debe grabar <strong>1 h.</strong> repartida entre las distintas actividades, por ejemplo:</span><span class=\"C9DxTc \"> </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Actividad de formación y perfeccionamiento:  <span style=\"color: #e03e2d;\">0,15 m.</span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Asistencia a Claustro de Profesores/as:  <span style=\"color: #e03e2d;\">0,15 m</span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Asistencia a reuniones de Equipos Educativos:  <span style=\"color: #e03e2d;\">0,15 m.</span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \" style=\"padding-left: 30px;\"><span class=\"C9DxTc \">Asistencia a sesiones de evaluación:  <span style=\"color: #e03e2d;\">0,15 m.</span></span><span class=\"C9DxTc \"> </span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><strong><span class=\"C9DxTc \">El profesorado que además pertenezca a Consejo Escolar, Equipo Técnico o Equipo Directivo distribuirá la hora entre todos los apartados pero el </span><span class=\"C9DxTc \">computo total no puede superar la hora.</span></strong></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #ff0000;\"><strong><span class=\"C9DxTc \">El horario tiene que estar grabado en Séneca  antes del día 30 de septiembre.</span></strong></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"text-decoration: underline;\"><span style=\"color: #000000;\"><span class=\"C9DxTc \">VIDEO PARA GRABACION EN EL HORARIO </span></span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \"><span><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/7JAFHHvA_X8\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span></span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \"><span></span></span></span><br /></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"><span class=\"C9DxTc \">VIDEO PARA GRABACION EN EL HORARIO DE MEDIAS HORAS</span></span></span></p>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \"><span><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/_jyDQRimKCo\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span></span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -29701,12 +29701,12 @@
 <odeNavStructure>
   <odePageId>page-mshenzod-uq0d8y02i</odePageId>
   <odeParentPageId>page-mshenzod-n8p8ppfgt</odeParentPageId>
-  <pageName>Calendario Escolar 25-26</pageName>
+  <pageName>Calendario Escolar 26-27</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Calendario Escolar 25-26</value>
+      <value>Calendario Escolar 26-27</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -29726,10 +29726,18 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Calendario Escolar 25-26</value>
+      <value>Calendario Escolar 26-27</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
+      <value>Calendario Escolar 26-27</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
       <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
@@ -29768,8 +29776,10 @@
           <odeBlockId>block-mshenzok-0n0033tc2</odeBlockId>
           <odeIdeviceId>idevice-mshenzok-m4ouka6d3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p><embed width="930" height="930" src="{{context_path}}/content/resources/CALENDARIO_ESCOLAR_25-26completo.pdf" type="application/pdf"></embed></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p><embed width=\"930\" height=\"930\" src=\"{{context_path}}/content/resources/CALENDARIO_ESCOLAR_25-26completo.pdf\" type=\"application/pdf\"></embed></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf" type="application/pdf"></embed><img src="{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf" alt="" width="NaN" height="NaN" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mshenzok-m4ouka6d3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf\" type=\"application/pdf\"></embed><img src=\"{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -30590,7 +30600,8 @@
           <odeBlockId>block-mshenzok-zh38kjyey</odeBlockId>
           <odeIdeviceId>idevice-mshenzok-saj4kecs0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<h3 jscontroller="Ae65rd" jsaction="touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;" class="CjVfdc" style="text-align: center;"><span style="text-decoration: underline; color: #000000;"><span class="jgG6ef C9DxTc ">COMO REFLEJAR LOS APOYOS</span></span></h3>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 jscontroller="Ae65rd" jsaction="touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;" class="CjVfdc" style="text-align: center;"><span style="text-decoration: underline; color: #000000;"><span class="jgG6ef C9DxTc ">COMO REFLEJAR LOS APOYOS</span></span></h3>
 <p dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #000000;"><span class="C9DxTc ">Los apoyos han de ser rellenados de forma frecuente , se pueden ir anotando de forma semanal o quincenal </span><span class="C9DxTc ">en papel u otro formato</span><span class="C9DxTc "> y pasarlos después todos juntos a los formularios.  Cualquier incidencia o error al rellenar los formularios ha de comunicarse la </span><a class="XqQF9c" href="mailto:alvarogarcia@ceipmarismasdehinojos.es" target="_blank" rel="noopener" style="color: #000000;"><span class="C9DxTc aw5Odc ">Coord. TDE</span></a><span class="C9DxTc "> para que sea corregida. </span><span class="C9DxTc ">Los formularios siempre usan los mismos apartados que deben ser completados:</span></span></p>
 <ol>
 <li dir="ltr" class="zfr3Q CDt4Ke "><span style="color: #000000;"><span class="C9DxTc ">Alumnado del refuerzo.</span><span class="C9DxTc "><span class="Apple-tab-span "> </span></span></span></li>
@@ -30611,84 +30622,85 @@
 <td style="width: 17.5867%; height: 24px; background-color: #669ffa; text-align: center;">Contenido</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/aEfaLNNePjkt2mkN7" target="_blank" rel="noopener">3 AÑOS</a></td>
-<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1GX9oqPTPLehGkIh6ueTe6gjfpdxdEKu4XdUofpijNeU/edit?usp=sharing" target="_blank" rel="noopener">3 AÑOS</a></td>
+<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/496qDLPj59jAqGM38" target="_blank" rel="noopener" title="">3 AÑOS A</a></td>
+<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1_2ad6XxTCyHBeGw2JjHm_w5QxLtU-zXsaqdY6YU52bo/edit?usp=sharing" target="_blank" rel="noopener" title="">3 AÑOS A</a></td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/Tb56bMo5Ekno1AH68" target="_blank" rel="noopener">4 AÑOS A</a></td>
-<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1MZpPxbBKFzUupCzOlEjGZocD8ho9GV5OUGDmAUsXHEM/edit?usp=sharing" target="_blank" rel="noopener">4 AÑOS A</a></td>
+<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/Ckn9vcdjrRbbpTR16" target="_blank" rel="noopener" title="">3 AÑOS B</a></td>
+<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1iN0gUpQYUcD-fShIEs92I0h05D4kv9mxLvBVVRzibiE/edit?usp=sharing" target="_blank" rel="noopener" title="">3 AÑOS B</a></td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/K6X1tJQfv9EyBk18A" target="_blank" rel="noopener">4 AÑOS B</a></td>
-<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1oaylsTe2eEaMyislQtVuRB6nSF7JiP7s_5AfkhwKoYo/edit?usp=sharing" target="_blank" rel="noopener">4 AÑOS B</a></td>
+<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/3hQaXMQsC2kW4iWK8" target="_blank" rel="noopener" title="">4 AÑOS A</a></td>
+<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1BebVEEn5GCVC59HCnGIEIifaH__sPb_qetWcuntUkFw/edit?usp=sharing" target="_blank" rel="noopener" title="">4 AÑOS A</a></td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 13.9503%; height: 23px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/YXQABNK8ms5ntirZA" target="_blank" rel="noopener">4 AÑOS C</a></td>
-<td style="width: 17.5867%; height: 23px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1vxnv_wLvrytxmTkoUkiLjKSwuBRoj9uDAZj_LeqwhFc/edit?usp=sharing" target="_blank" rel="noopener">4 AÑOS C</a></td>
+<td style="width: 13.9503%; height: 23px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/Bb6BX5YSauFaPKaw8" target="_blank" rel="noopener" title="">5 AÑOS A</a></td>
+<td style="width: 17.5867%; height: 23px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1Wv49jqiUXjokqLqakDUXX6-Zg8at13qcNmx3QhtC3Ug/edit?usp=sharing" target="_blank" rel="noopener" title="">5 AÑOS A</a></td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/BH85xEDHEHTgm2pd8" target="_blank" rel="noopener">5 AÑOS A</a></td>
-<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1Tvx2gaRMBdju2LxkhXMsfN_xRGZ3m0BGpYfuIIOFxXw/edit?usp=sharing" target="_blank" rel="noopener">5 AÑOS A</a></td>
+<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/Aromgxq4bW8kP3kr5" target="_blank" rel="noopener" title="">5 AÑOS B</a></td>
+<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1h-6c0rauIAEkTtOZBqGLx3Or-y0h2h21Ry-PrEpL85w/edit?usp=sharing" target="_blank" rel="noopener" title="">5 AÑOS B</a></td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/GSSJD6Qs8Kz6FyXB8" target="_blank" rel="noopener">5 AÑOS B</a></td>
-<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1wC3XLjU9zUX5G6nu2Ka9j0iWJWq33zMXehvgXcDSAd8/edit?usp=sharing" target="_blank" rel="noopener">5 AÑOS B</a></td>
+<td style="width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;"><a href="https://forms.gle/mPqsEp3TmHtpuQX87" target="_blank" rel="noopener" title="">5 AÑOS C</a></td>
+<td style="width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;"><a href="https://docs.google.com/spreadsheets/d/1spcnZk6Uh_TatWnp2y4ghnd1HZS93prEyRLvlhIExh8/edit?usp=sharing" target="_blank" rel="noopener" title="">5 AÑOS C</a></td>
 </tr>
 </tbody>
 </table>
 <h3 jscontroller="Ae65rd" jsaction="touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;" class="CjVfdc" style="text-align: left;"><span style="color: #000000;"><span class="jgG6ef C9DxTc "><span style="text-decoration: underline;">APOYOS</span></span></span><span style="text-decoration: underline; color: #000000;"><span class="jgG6ef C9DxTc "> DE ED. PRIMARIA</span></span></h3>
-<table border="1" style="height: 606px; width: 71.8629%; font-size: 1.05em; border-color: #050000;">
+<table border="1" style="height: 605px; width: 71.8629%; font-size: 1.05em; border-color: #050000;">
 <tbody>
-<tr style="height: 24px;">
-<td style="width: 54.9488%; height: 10px; background-color: #ede6ed; text-align: center;" colspan="4">APOYO ED.INFANTIL</td>
+<tr style="height: 75.625px;">
+<td style="width: 54.9488%; height: 75.625px; background-color: #ede6ed; text-align: center;" colspan="4">APOYO ED.INFANTIL</td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px; width: 13.9448%; background-color: #edb355; text-align: center;">Formulario</td>
-<td style="width: 13.0619%; height: 24px; background-color: #a8f7b9; text-align: center;">Contenido</td>
-<td style="width: 13.5814%; height: 24px; background-color: #edb355; text-align: center;">Formulario</td>
-<td style="width: 14.3607%; height: 24px; background-color: #a8f7b9; text-align: center;">Contenido</td>
+<tr style="height: 75.625px;">
+<td style="height: 75.625px; width: 13.9448%; background-color: #edb355; text-align: center;">Formulario</td>
+<td style="width: 13.0619%; height: 75.625px; background-color: #a8f7b9; text-align: center;">Contenido</td>
+<td style="width: 13.5814%; height: 75.625px; background-color: #edb355; text-align: center;">Formulario</td>
+<td style="width: 14.3607%; height: 75.625px; background-color: #a8f7b9; text-align: center;">Contenido</td>
 </tr>
-<tr style="height: 24px;">
-<td style="width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/9iZ1s4NcinpDuisT7" target="_blank" rel="noopener">APOYO 1º A</a></td>
-<td style="width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1W8RgXmk8CTNM-VFUjfXdLogWHCMjT-Ky_oOi74kTF1M/edit?usp=sharing" target="_blank" rel="noopener">APOYO 1º A</a></td>
-<td style="width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/CkFGBtp4mbG1iPpQA" target="_blank" rel="noopener">APOYO 4º A</a></td>
-<td style="width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1x2rs7qOlSqF7xusoiSX0uI5Z0ucUEysq_rj7Z5Vlq0E/edit?usp=sharing" target="_blank" rel="noopener">APOYO 4º A</a></td>
+<tr style="height: 75.625px;">
+<td style="width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/qDDFJXTDXRbxiy127" target="_blank" rel="noopener" title="">APOYO 1º A</a></td>
+<td style="width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1cVB4FCbbgS3pqgz52WsXuFNlUok9Ay1K6xXtimibCmI/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 1º A</a></td>
+<td style="width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/7W5K2DT2BJAfqei7A" target="_blank" rel="noopener" title="">APOYO 4º A</a></td>
+<td style="width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/121zJ-59m-4itwonWnWM55Gl1Iq1MFHAJ8LYesquTptQ/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 4º A</a></td>
 </tr>
-<tr style="height: 24px;">
-<td style="width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/hPCHhiMjDUvC3bpn6" target="_blank" rel="noopener">APOYO 1º B</a></td>
-<td style="width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1T07btevJdFcrbKCjSsIb9RQyj4V7P7KsyGTgg7NdA2U/edit?usp=sharing" target="_blank" rel="noopener">APOYO 1º B</a></td>
-<td style="width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/Pre5Zo77XrsLjzmH7" target="_blank" rel="noopener">APOYO 4º B</a></td>
-<td style="width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1HNFmdRxHp0nJCMD8GD9XcTtrVp2LOYBgTbP9c1VsWmg/edit?usp=sharing" target="_blank" rel="noopener">APOYO 4º B</a></td>
+<tr style="height: 75.625px;">
+<td style="width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/kXK5eVAtRk7FDRd76" target="_blank" rel="noopener" title="">APOYO 1º B</a></td>
+<td style="width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1W7GqSwqzteE9xFPan_9RwZCTpDpzuCwe469RkAjqAf4/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 1º B</a></td>
+<td style="width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/6jedMgM2EcGehGrM6" target="_blank" rel="noopener" title="">APOYO 4º B</a></td>
+<td style="width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1siwkk6gPmq430iMAtGzc6erbyyUc0csHTDfKAWpjNjA/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 4º B</a></td>
 </tr>
-<tr style="height: 24px;">
-<td style="width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/qLjDmVEHtbaAyCMA6" target="_blank" rel="noopener">APOYO 2º A</a></td>
-<td style="width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/12Ei70MfTjYECZxMOyjeIgm9cRoPEwTKvSNPyWMuPbO0/edit?usp=sharing" target="_blank" rel="noopener">APOYO 2º A</a></td>
-<td style="width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/i6TCUHsKomJHB94x7" target="_blank" rel="noopener">APOYO 5º A</a></td>
-<td style="width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1VY4Y282eShqO2kOmmGlKgyebOPI5zyYR8Pt357y6PD8/edit?usp=sharing" target="_blank" rel="noopener">APOYO 5º A</a></td>
+<tr style="height: 75.625px;">
+<td style="width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/9jRZGutXkkAzEVTL9" target="_blank" rel="noopener" title="">APOYO 2º A</a></td>
+<td style="width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1LAwpHO_OSrCCKrIdnFwOY9fYqLiA6y458KulbbPUxpw/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 2º A</a></td>
+<td style="width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/ubv2NfGqH9q7jB8u5" target="_blank" rel="noopener" title="">APOYO 5º A</a></td>
+<td style="width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1cz3ybX64RTE4cOkzHmsNr51L55JzQPi6mLUux8-VnpE/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 5º A</a></td>
 </tr>
-<tr style="height: 24px;">
-<td style="width: 13.9448%; height: 23px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/ekwm3FdvBST225Lc6" target="_blank" rel="noopener">APOYO 2º B</a></td>
-<td style="width: 13.0619%; height: 23px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1-_IjAMjSfTYfY2CmRkQXzP6WFbDNKWscoS54qZ7u7Zc/edit?usp=sharing" target="_blank" rel="noopener">APOYO 2º B</a></td>
-<td style="width: 13.5814%; height: 23px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/jBCv5sBBxSq16XkY8" target="_blank" rel="noopener">APOYO 5º B</a></td>
-<td style="width: 14.3607%; height: 23px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1DOC2UxkR3u1AIRu3fm1YzHw6Ptd9pDYcagYqLLca5I4/edit?usp=sharing" target="_blank" rel="noopener">APOYO 5º B</a></td>
+<tr style="height: 75.625px;">
+<td style="width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/XrMCU3ipsDbxrAZZA" target="_blank" rel="noopener" title="">APOYO 2º B</a></td>
+<td style="width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1osz5m6JKRCK_ANJXH1afqJXGuqxRSo8WOweGTFYXEpM/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 2º B</a></td>
+<td style="width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/7Ri4jG5y1DA8BzRX8" target="_blank" rel="noopener" title="">APOYO 5º B</a></td>
+<td style="width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/19W1-bN62hRcpPqkRhFncqSr9tsmpRDww0v-JzqF8XbQ/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 5º B</a></td>
 </tr>
-<tr style="height: 24px;">
-<td style="width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/GUSJRPs9cVPeY95t6" target="_blank" rel="noopener">APOYO 3º A</a></td>
-<td style="width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1BkvRK7DD89pKXBDJocx8hmzFoPG4tpGWXfzXHP0VM_0/edit?usp=sharing" target="_blank" rel="noopener">APOYO 3º A</a></td>
-<td style="width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/Ps9CCtM6VPG7fctLA" target="_blank" rel="noopener">APOYO 6º A</a></td>
-<td style="width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1DwfMbPnmdCKcklc_CPFDx2XTAPoJcrXFY9CePljgU04/edit?usp=sharing" target="_blank" rel="noopener">APOYO 6º A</a></td>
+<tr style="height: 75.625px;">
+<td style="width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/a7xVNy275JBjftZ77" target="_blank" rel="noopener" title="">APOYO 3º A</a></td>
+<td style="width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1SRKALn_xpT0gqDBDcKWT6G__UpwG45NEURh_IKqIJxg/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 3º A</a></td>
+<td style="width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/w6NBmoaDoPGgJ4GF7" target="_blank" rel="noopener" title="">APOYO 6º A</a></td>
+<td style="width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/18X1Ymwgr47r0gr8Rj_t2u0Es7OAe1hmSWLpA7W5rvGY/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 6º A</a></td>
 </tr>
-<tr style="height: 24px;">
-<td style="width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/FakFT3oCKPPz5m4k7" target="_blank" rel="noopener">APOYO 3º B</a></td>
-<td style="width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/13I9jcldvidFEv9R1xFPVRmoiF8cn7BRkxLsYz0a2AqM/edit?usp=sharing" target="_blank" rel="noopener">APOYO 3º B</a></td>
-<td style="width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/yQL3LiDwqAJjtJY18" target="_blank" rel="noopener">APOYO 6º B</a></td>
-<td style="width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1mmmTrAXn9ptvJZrKvWklTfKjSRtcLcqC332r3EJ6V0E/edit?usp=sharing" target="_blank" rel="noopener">APOYO 6º B</a></td>
+<tr style="height: 75.625px;">
+<td style="width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/cwbGpZ4cox1K8oLw7" target="_blank" rel="noopener" title="">APOYO 3º B</a></td>
+<td style="width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1XdHqiBE9lRpbanlCpU-HzJgu9X2iBo-c4UIZL13Mebg/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 3º B</a></td>
+<td style="width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;"><a href="https://forms.gle/xdRJzEENuf9xYEtR8" target="_blank" rel="noopener" title="">APOYO 6º B</a></td>
+<td style="width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;"><a href="https://docs.google.com/spreadsheets/d/1RFlY-H5bWSHgIGfpeYxbLlsY1qQtLVleJcK8KQ9nenY/edit?usp=sharing" target="_blank" rel="noopener" title="">APOYO 6º B</a></td>
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<h3 jscontroller=\"Ae65rd\" jsaction=\"touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;\" class=\"CjVfdc\" style=\"text-align: center;\"><span style=\"text-decoration: underline; color: #000000;\"><span class=\"jgG6ef C9DxTc \">COMO REFLEJAR LOS APOYOS</span></span></h3>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Los apoyos han de ser rellenados de forma frecuente , se pueden ir anotando de forma semanal o quincenal </span><span class=\"C9DxTc \">en papel u otro formato</span><span class=\"C9DxTc \"> y pasarlos después todos juntos a los formularios.  Cualquier incidencia o error al rellenar los formularios ha de comunicarse la </span><a class=\"XqQF9c\" href=\"mailto:alvarogarcia@ceipmarismasdehinojos.es\" target=\"_blank\" rel=\"noopener\" style=\"color: #000000;\"><span class=\"C9DxTc aw5Odc \">Coord. TDE</span></a><span class=\"C9DxTc \"> para que sea corregida. </span><span class=\"C9DxTc \">Los formularios siempre usan los mismos apartados que deben ser completados:</span></span></p>\n<ol>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Alumnado del refuerzo.</span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span></span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Fecha de realización del apoyo.</span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span></span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \" style=\"color: #000000;\">Maestro/a que realiza el apoyo.</span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \" style=\"color: #000000;\">Objetivos.</span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Actividades realizadas. </span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span><span class=\"C9DxTc \">  </span></span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \" style=\"color: #000000;\"><span class=\"C9DxTc \" style=\"color: #000000;\">Valoración.</span></span></li>\n</ol>\n<h3 jscontroller=\"Ae65rd\" jsaction=\"touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;\" class=\"CjVfdc\" style=\"text-align: left;\"><span style=\"color: #000000;\"><span class=\"jgG6ef C9DxTc \"> <span style=\"text-decoration: underline;\">APOYOS</span></span></span><span style=\"text-decoration: underline; color: #000000;\"><span class=\"jgG6ef C9DxTc \"> DE ED. INFANTIL</span></span></h3>\n<table border=\"1\" style=\"height: 436px; width: 50.332%; font-size: 1.05em; border-color: #050000;\">\n<tbody>\n<tr style=\"height: 24px;\">\n<td style=\"width: 31.537%; height: 10px; background-color: #ede6ed; text-align: center;\" colspan=\"2\">APOYO ED.INFANTIL</td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; background-color: #f7f36a; text-align: center;\">Formulario</td>\n<td style=\"width: 17.5867%; height: 24px; background-color: #669ffa; text-align: center;\">Contenido</td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/aEfaLNNePjkt2mkN7\" target=\"_blank\" rel=\"noopener\">3 AÑOS</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1GX9oqPTPLehGkIh6ueTe6gjfpdxdEKu4XdUofpijNeU/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">3 AÑOS</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/Tb56bMo5Ekno1AH68\" target=\"_blank\" rel=\"noopener\">4 AÑOS A</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1MZpPxbBKFzUupCzOlEjGZocD8ho9GV5OUGDmAUsXHEM/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">4 AÑOS A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/K6X1tJQfv9EyBk18A\" target=\"_blank\" rel=\"noopener\">4 AÑOS B</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1oaylsTe2eEaMyislQtVuRB6nSF7JiP7s_5AfkhwKoYo/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">4 AÑOS B</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 23px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/YXQABNK8ms5ntirZA\" target=\"_blank\" rel=\"noopener\">4 AÑOS C</a></td>\n<td style=\"width: 17.5867%; height: 23px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1vxnv_wLvrytxmTkoUkiLjKSwuBRoj9uDAZj_LeqwhFc/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">4 AÑOS C</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/BH85xEDHEHTgm2pd8\" target=\"_blank\" rel=\"noopener\">5 AÑOS A</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1Tvx2gaRMBdju2LxkhXMsfN_xRGZ3m0BGpYfuIIOFxXw/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">5 AÑOS A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/GSSJD6Qs8Kz6FyXB8\" target=\"_blank\" rel=\"noopener\">5 AÑOS B</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1wC3XLjU9zUX5G6nu2Ka9j0iWJWq33zMXehvgXcDSAd8/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">5 AÑOS B</a></td>\n</tr>\n</tbody>\n</table>\n<h3 jscontroller=\"Ae65rd\" jsaction=\"touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;\" class=\"CjVfdc\" style=\"text-align: left;\"><span style=\"color: #000000;\"><span class=\"jgG6ef C9DxTc \"><span style=\"text-decoration: underline;\">APOYOS</span></span></span><span style=\"text-decoration: underline; color: #000000;\"><span class=\"jgG6ef C9DxTc \"> DE ED. PRIMARIA</span></span></h3>\n<table border=\"1\" style=\"height: 606px; width: 71.8629%; font-size: 1.05em; border-color: #050000;\">\n<tbody>\n<tr style=\"height: 24px;\">\n<td style=\"width: 54.9488%; height: 10px; background-color: #ede6ed; text-align: center;\" colspan=\"4\">APOYO ED.INFANTIL</td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"height: 24px; width: 13.9448%; background-color: #edb355; text-align: center;\">Formulario</td>\n<td style=\"width: 13.0619%; height: 24px; background-color: #a8f7b9; text-align: center;\">Contenido</td>\n<td style=\"width: 13.5814%; height: 24px; background-color: #edb355; text-align: center;\">Formulario</td>\n<td style=\"width: 14.3607%; height: 24px; background-color: #a8f7b9; text-align: center;\">Contenido</td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/9iZ1s4NcinpDuisT7\" target=\"_blank\" rel=\"noopener\">APOYO 1º A</a></td>\n<td style=\"width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1W8RgXmk8CTNM-VFUjfXdLogWHCMjT-Ky_oOi74kTF1M/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 1º A</a></td>\n<td style=\"width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/CkFGBtp4mbG1iPpQA\" target=\"_blank\" rel=\"noopener\">APOYO 4º A</a></td>\n<td style=\"width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1x2rs7qOlSqF7xusoiSX0uI5Z0ucUEysq_rj7Z5Vlq0E/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 4º A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/hPCHhiMjDUvC3bpn6\" target=\"_blank\" rel=\"noopener\">APOYO 1º B</a></td>\n<td style=\"width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1T07btevJdFcrbKCjSsIb9RQyj4V7P7KsyGTgg7NdA2U/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 1º B</a></td>\n<td style=\"width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/Pre5Zo77XrsLjzmH7\" target=\"_blank\" rel=\"noopener\">APOYO 4º B</a></td>\n<td style=\"width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1HNFmdRxHp0nJCMD8GD9XcTtrVp2LOYBgTbP9c1VsWmg/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 4º B</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/qLjDmVEHtbaAyCMA6\" target=\"_blank\" rel=\"noopener\">APOYO 2º A</a></td>\n<td style=\"width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/12Ei70MfTjYECZxMOyjeIgm9cRoPEwTKvSNPyWMuPbO0/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 2º A</a></td>\n<td style=\"width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/i6TCUHsKomJHB94x7\" target=\"_blank\" rel=\"noopener\">APOYO 5º A</a></td>\n<td style=\"width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1VY4Y282eShqO2kOmmGlKgyebOPI5zyYR8Pt357y6PD8/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 5º A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9448%; height: 23px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/ekwm3FdvBST225Lc6\" target=\"_blank\" rel=\"noopener\">APOYO 2º B</a></td>\n<td style=\"width: 13.0619%; height: 23px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1-_IjAMjSfTYfY2CmRkQXzP6WFbDNKWscoS54qZ7u7Zc/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 2º B</a></td>\n<td style=\"width: 13.5814%; height: 23px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/jBCv5sBBxSq16XkY8\" target=\"_blank\" rel=\"noopener\">APOYO 5º B</a></td>\n<td style=\"width: 14.3607%; height: 23px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1DOC2UxkR3u1AIRu3fm1YzHw6Ptd9pDYcagYqLLca5I4/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 5º B</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/GUSJRPs9cVPeY95t6\" target=\"_blank\" rel=\"noopener\">APOYO 3º A</a></td>\n<td style=\"width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1BkvRK7DD89pKXBDJocx8hmzFoPG4tpGWXfzXHP0VM_0/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 3º A</a></td>\n<td style=\"width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/Ps9CCtM6VPG7fctLA\" target=\"_blank\" rel=\"noopener\">APOYO 6º A</a></td>\n<td style=\"width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1DwfMbPnmdCKcklc_CPFDx2XTAPoJcrXFY9CePljgU04/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 6º A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9448%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/FakFT3oCKPPz5m4k7\" target=\"_blank\" rel=\"noopener\">APOYO 3º B</a></td>\n<td style=\"width: 13.0619%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/13I9jcldvidFEv9R1xFPVRmoiF8cn7BRkxLsYz0a2AqM/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 3º B</a></td>\n<td style=\"width: 13.5814%; height: 24px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/yQL3LiDwqAJjtJY18\" target=\"_blank\" rel=\"noopener\">APOYO 6º B</a></td>\n<td style=\"width: 14.3607%; height: 24px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1mmmTrAXn9ptvJZrKvWklTfKjSRtcLcqC332r3EJ6V0E/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">APOYO 6º B</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>"}]]></jsonProperties>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mshenzok-saj4kecs0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 jscontroller=\"Ae65rd\" jsaction=\"touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;\" class=\"CjVfdc\" style=\"text-align: center;\"><span style=\"text-decoration: underline; color: #000000;\"><span class=\"jgG6ef C9DxTc \">COMO REFLEJAR LOS APOYOS</span></span></h3>\n<p dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Los apoyos han de ser rellenados de forma frecuente , se pueden ir anotando de forma semanal o quincenal </span><span class=\"C9DxTc \">en papel u otro formato</span><span class=\"C9DxTc \"> y pasarlos después todos juntos a los formularios.  Cualquier incidencia o error al rellenar los formularios ha de comunicarse la </span><a class=\"XqQF9c\" href=\"mailto:alvarogarcia@ceipmarismasdehinojos.es\" target=\"_blank\" rel=\"noopener\" style=\"color: #000000;\"><span class=\"C9DxTc aw5Odc \">Coord. TDE</span></a><span class=\"C9DxTc \"> para que sea corregida. </span><span class=\"C9DxTc \">Los formularios siempre usan los mismos apartados que deben ser completados:</span></span></p>\n<ol>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Alumnado del refuerzo.</span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span></span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Fecha de realización del apoyo.</span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span></span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \" style=\"color: #000000;\">Maestro/a que realiza el apoyo.</span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \" style=\"color: #000000;\">Objetivos.</span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span style=\"color: #000000;\"><span class=\"C9DxTc \">Actividades realizadas. </span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span><span class=\"C9DxTc \"><span class=\"Apple-tab-span \"> </span></span><span class=\"C9DxTc \">  </span></span></li>\n<li dir=\"ltr\" class=\"zfr3Q CDt4Ke \"><span class=\"C9DxTc \" style=\"color: #000000;\"><span class=\"C9DxTc \" style=\"color: #000000;\">Valoración.</span></span></li>\n</ol>\n<h3 jscontroller=\"Ae65rd\" jsaction=\"touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;\" class=\"CjVfdc\" style=\"text-align: left;\"><span style=\"color: #000000;\"><span class=\"jgG6ef C9DxTc \"> <span style=\"text-decoration: underline;\">APOYOS</span></span></span><span style=\"text-decoration: underline; color: #000000;\"><span class=\"jgG6ef C9DxTc \"> DE ED. INFANTIL</span></span></h3>\n<table border=\"1\" style=\"height: 436px; width: 50.332%; font-size: 1.05em; border-color: #050000;\">\n<tbody>\n<tr style=\"height: 24px;\">\n<td style=\"width: 31.537%; height: 10px; background-color: #ede6ed; text-align: center;\" colspan=\"2\">APOYO ED.INFANTIL</td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; background-color: #f7f36a; text-align: center;\">Formulario</td>\n<td style=\"width: 17.5867%; height: 24px; background-color: #669ffa; text-align: center;\">Contenido</td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/496qDLPj59jAqGM38\" target=\"_blank\" rel=\"noopener\" title=\"\">3 AÑOS A</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1_2ad6XxTCyHBeGw2JjHm_w5QxLtU-zXsaqdY6YU52bo/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">3 AÑOS A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/Ckn9vcdjrRbbpTR16\" target=\"_blank\" rel=\"noopener\" title=\"\">3 AÑOS B</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1iN0gUpQYUcD-fShIEs92I0h05D4kv9mxLvBVVRzibiE/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">3 AÑOS B</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/3hQaXMQsC2kW4iWK8\" target=\"_blank\" rel=\"noopener\" title=\"\">4 AÑOS A</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1BebVEEn5GCVC59HCnGIEIifaH__sPb_qetWcuntUkFw/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">4 AÑOS A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 23px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/Bb6BX5YSauFaPKaw8\" target=\"_blank\" rel=\"noopener\" title=\"\">5 AÑOS A</a></td>\n<td style=\"width: 17.5867%; height: 23px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1Wv49jqiUXjokqLqakDUXX6-Zg8at13qcNmx3QhtC3Ug/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">5 AÑOS A</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/Aromgxq4bW8kP3kr5\" target=\"_blank\" rel=\"noopener\" title=\"\">5 AÑOS B</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1h-6c0rauIAEkTtOZBqGLx3Or-y0h2h21Ry-PrEpL85w/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">5 AÑOS B</a></td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 13.9503%; height: 24px; text-align: center; background-color: #669ffa;\"><a href=\"https://forms.gle/mPqsEp3TmHtpuQX87\" target=\"_blank\" rel=\"noopener\" title=\"\">5 AÑOS C</a></td>\n<td style=\"width: 17.5867%; height: 24px; text-align: center; background-color: #f7f36a;\"><a href=\"https://docs.google.com/spreadsheets/d/1spcnZk6Uh_TatWnp2y4ghnd1HZS93prEyRLvlhIExh8/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">5 AÑOS C</a></td>\n</tr>\n</tbody>\n</table>\n<h3 jscontroller=\"Ae65rd\" jsaction=\"touchstart:UrsOsc; click:KjsqPd; focusout:QZoaZ; mouseover:y0pDld; mouseout:dq0hvd;fv1Rjc:jbFSOd;CrfLRd:SzACGe;\" class=\"CjVfdc\" style=\"text-align: left;\"><span style=\"color: #000000;\"><span class=\"jgG6ef C9DxTc \"><span style=\"text-decoration: underline;\">APOYOS</span></span></span><span style=\"text-decoration: underline; color: #000000;\"><span class=\"jgG6ef C9DxTc \"> DE ED. PRIMARIA</span></span></h3>\n<table border=\"1\" style=\"height: 605px; width: 71.8629%; font-size: 1.05em; border-color: #050000;\">\n<tbody>\n<tr style=\"height: 75.625px;\">\n<td style=\"width: 54.9488%; height: 75.625px; background-color: #ede6ed; text-align: center;\" colspan=\"4\">APOYO ED.INFANTIL</td>\n</tr>\n<tr style=\"height: 75.625px;\">\n<td style=\"height: 75.625px; width: 13.9448%; background-color: #edb355; text-align: center;\">Formulario</td>\n<td style=\"width: 13.0619%; height: 75.625px; background-color: #a8f7b9; text-align: center;\">Contenido</td>\n<td style=\"width: 13.5814%; height: 75.625px; background-color: #edb355; text-align: center;\">Formulario</td>\n<td style=\"width: 14.3607%; height: 75.625px; background-color: #a8f7b9; text-align: center;\">Contenido</td>\n</tr>\n<tr style=\"height: 75.625px;\">\n<td style=\"width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/qDDFJXTDXRbxiy127\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 1º A</a></td>\n<td style=\"width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1cVB4FCbbgS3pqgz52WsXuFNlUok9Ay1K6xXtimibCmI/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 1º A</a></td>\n<td style=\"width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/7W5K2DT2BJAfqei7A\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 4º A</a></td>\n<td style=\"width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/121zJ-59m-4itwonWnWM55Gl1Iq1MFHAJ8LYesquTptQ/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 4º A</a></td>\n</tr>\n<tr style=\"height: 75.625px;\">\n<td style=\"width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/kXK5eVAtRk7FDRd76\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 1º B</a></td>\n<td style=\"width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1W7GqSwqzteE9xFPan_9RwZCTpDpzuCwe469RkAjqAf4/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 1º B</a></td>\n<td style=\"width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/6jedMgM2EcGehGrM6\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 4º B</a></td>\n<td style=\"width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1siwkk6gPmq430iMAtGzc6erbyyUc0csHTDfKAWpjNjA/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 4º B</a></td>\n</tr>\n<tr style=\"height: 75.625px;\">\n<td style=\"width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/9jRZGutXkkAzEVTL9\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 2º A</a></td>\n<td style=\"width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1LAwpHO_OSrCCKrIdnFwOY9fYqLiA6y458KulbbPUxpw/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 2º A</a></td>\n<td style=\"width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/ubv2NfGqH9q7jB8u5\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 5º A</a></td>\n<td style=\"width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1cz3ybX64RTE4cOkzHmsNr51L55JzQPi6mLUux8-VnpE/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 5º A</a></td>\n</tr>\n<tr style=\"height: 75.625px;\">\n<td style=\"width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/XrMCU3ipsDbxrAZZA\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 2º B</a></td>\n<td style=\"width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1osz5m6JKRCK_ANJXH1afqJXGuqxRSo8WOweGTFYXEpM/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 2º B</a></td>\n<td style=\"width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/7Ri4jG5y1DA8BzRX8\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 5º B</a></td>\n<td style=\"width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/19W1-bN62hRcpPqkRhFncqSr9tsmpRDww0v-JzqF8XbQ/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 5º B</a></td>\n</tr>\n<tr style=\"height: 75.625px;\">\n<td style=\"width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/a7xVNy275JBjftZ77\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 3º A</a></td>\n<td style=\"width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1SRKALn_xpT0gqDBDcKWT6G__UpwG45NEURh_IKqIJxg/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 3º A</a></td>\n<td style=\"width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/w6NBmoaDoPGgJ4GF7\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 6º A</a></td>\n<td style=\"width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/18X1Ymwgr47r0gr8Rj_t2u0Es7OAe1hmSWLpA7W5rvGY/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 6º A</a></td>\n</tr>\n<tr style=\"height: 75.625px;\">\n<td style=\"width: 13.9448%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/cwbGpZ4cox1K8oLw7\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 3º B</a></td>\n<td style=\"width: 13.0619%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1XdHqiBE9lRpbanlCpU-HzJgu9X2iBo-c4UIZL13Mebg/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 3º B</a></td>\n<td style=\"width: 13.5814%; height: 75.625px; text-align: center; background-color: #a8f7b9;\"><a href=\"https://forms.gle/xdRJzEENuf9xYEtR8\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 6º B</a></td>\n<td style=\"width: 14.3607%; height: 75.625px; text-align: center; background-color: #edb355;\"><a href=\"https://docs.google.com/spreadsheets/d/1RFlY-H5bWSHgIGfpeYxbLlsY1qQtLVleJcK8KQ9nenY/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">APOYO 6º B</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -30713,8 +30725,28 @@
   <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Protocolo Seneca ante la detección NEAE</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protocolo Seneca ante la detección NEAE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Protocolo Seneca ante la detección NEAE</value>
@@ -30873,69 +30905,13 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
-      <odeBlockId>block-msn161xx-dmxetovwy</odeBlockId>
-      <blockName></blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
-          <odeBlockId>block-msn161xx-dmxetovwy</odeBlockId>
-          <odeIdeviceId>idevice-msn161xx-uziy4k81f</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<h4><span style="text-decoration: underline;">CARPETA CON LOS DOCUMENTOS DEL PROTOCOLO NEAE</span></h4>
-<div style="border: 1px solid #ccc; padding: 10px; text-align: center;"><iframe width="300" height="150" style="width: 100%; height: 500px; border: 0;" src="https://drive.google.com/embeddedfolderview?id=1ZjMKBkAbDj8JfGK81Ya012QX4X0ndlQj#grid">
-  </iframe></div>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<h4><span style=\"text-decoration: underline;\">CARPETA CON LOS DOCUMENTOS DEL PROTOCOLO NEAE</span></h4>\n<div style=\"border: 1px solid #ccc; padding: 10px; text-align: center;\"><iframe width=\"300\" height=\"150\" style=\"width: 100%; height: 500px; border: 0;\" src=\"https://drive.google.com/embeddedfolderview?id=1ZjMKBkAbDj8JfGK81Ya012QX4X0ndlQj#grid\">\n  </iframe></div>"}]]></jsonProperties>
-          <odeComponentsOrder>2</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-mshenzod-mao4rpkud</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Documentación útil</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31032,7 +31008,7 @@
   <odePageId>page-mshenzod-rwyjxfssu</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Evaluación</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31070,7 +31046,7 @@
   <odePageId>page-mshenzod-lrx24lrx5</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Repositorio Documental</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31166,7 +31142,7 @@
   <odePageId>page-mshenzod-kt08dnwba</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Eficacia Lectora</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
