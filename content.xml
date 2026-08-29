@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1788028444294</value>
+    <value>1788032894860</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -30486,6 +30486,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1788028546128-hd3dc8at5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\" title=\"\">📄 <a href=\"exe-node:page-mshenzod-4rm3r4ybx\" title=\"\">Presentación Anexo I </a></span></p>\n<p><span style=\"font-size: 14pt;\">🤝 <a href=\"exe-node:page-mshenzod-snpgyjq6l\" target=\"_blank\" title=\"\" rel=\"noopener\">Apoyos al centro </a></span></p>\n<p><span style=\"font-size: 14pt;\">👨‍👩‍👧 <a href=\"exe-node:page-mteqqsv6-2pzwu5cnt\" target=\"_blank\" title=\"\" rel=\"noopener\">Tutorías de familias desde Séneca</a></span></p>\n<p><span style=\"font-size: 14pt;\">⚠️ <a href=\"exe-node:page-msn161xx-h3yu7cmt8\" title=\"\">Protocolo Séneca ante la detección de NEAE</a></span></p>\n<p><span style=\"font-size: 14pt;\">📂 <a href=\"exe-node:page-mshenzod-mao4rpkud\" target=\"_blank\" title=\"\" rel=\"noopener\">Documentación útil</a></span></p>\n<p><span style=\"font-size: 14pt;\">📊 <a href=\"exe-node:page-mshenzod-rwyjxfssu\" title=\"\">Evaluación </a></span></p>\n<p><span style=\"font-size: 14pt;\">🗄️ <a href=\"exe-node:page-mshenzod-lrx24lrx5\" target=\"_blank\" title=\"\" rel=\"noopener\">Repositorio Documental </a></span></p>\n<p><span style=\"font-size: 14pt;\">📖 <a href=\"exe-node:page-mshenzod-kt08dnwba\" target=\"_blank\" title=\"\" rel=\"noopener\">Eficacia Lectora 26-27</a></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -30792,12 +30804,36 @@
       <key>titlePage</key>
       <value>Tutorías de familias desde Séneca</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tutorías de familias desde Séneca</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mteqqsv6-2pzwu5cnt</odePageId>
       <odeBlockId>block-mter0yb9-q3oss635u</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -30843,6 +30879,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1788030218419-t77bc5b9x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo información relacionada con el modulo de tutorías con las familias de Séneca, para una correcto uso debemos primero se debe activar y configurar el módulo desde el Equipo Directivo y después realizar la configuración por parte del maestro/a.</p>\n<p><strong>1.- CONFIGURACIÓN DEL MÓDULO POR PARTE DEL PROFESORADO.</strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/u9sK0Li1lxY?si=5XFhlazWVxeDXyBw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>2.- SEGUIMIENTO POR PARTE DEL PROFESORADO:</strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AOatsU7FhBw?si=WoL6lFTwtgVjP8s3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>3.- GENERACIÓN DEL ACTA DE ASISTENCIA.</strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IaZSx-yKIHc?si=gBdVXhl8BJXluvWk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>4.- IPASEN VISION DE LA FAMILIAS</strong><strong></strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WRvJEhelN0Y?si=iNQHvMmAgNfkJwhM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
