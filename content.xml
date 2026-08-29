@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1787568726865</value>
+    <value>1788028444294</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -29777,9 +29777,9 @@
           <odeIdeviceId>idevice-mshenzok-m4ouka6d3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><embed width="600" height="300" src="{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf" type="application/pdf"></embed><img src="{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf" alt="" width="NaN" height="NaN" /></p>
+    <p><embed width="800" height="750" src="{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf" type="application/pdf"></embed><img src="{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf" alt="" width="NaN" height="NaN" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mshenzok-m4ouka6d3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf\" type=\"application/pdf\"></embed><img src=\"{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mshenzok-m4ouka6d3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"800\" height=\"750\" src=\"{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf\" type=\"application/pdf\"></embed><img src=\"{{context_path}}/content/resources/calendario Huelva 2026-27ok.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -30209,12 +30209,22 @@
           <odeBlockId>block-mshenzok-u3z09fry2</odeBlockId>
           <odeIdeviceId>idevice-mshenzok-e8xbnd4pt</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<p><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">VÍDEO DE ACTIVACIÓN CORREO CORPORATIVO</span></span><span style="text-decoration: underline;"></span></p>
-<p><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><iframe width="560" height="314" src="https://www.youtube.com/embed/XgOWW1Ro3wo" allowfullscreen="allowfullscreen"></iframe><br /></span></span></p>
-<p><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"></span></span></p>
-<p><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"></span></span></p>
-<p><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"></span></span></p>]]></htmlView>
-          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\">VÍDEO DE ACTIVACIÓN CORREO CORPORATIVO</span></span><span style=\"text-decoration: underline;\"></span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/XgOWW1Ro3wo\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span></span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"></span></span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"></span></span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"></span></span></p>"}]]></jsonProperties>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">ACTIVACIÓN CORREO CORPORATIVO</span></span></strong><span style="text-decoration: underline;"></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><iframe width="560" height="314" src="https://www.youtube.com/embed/XgOWW1Ro3wo" allowfullscreen="allowfullscreen"></iframe><br /></span></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>COPIAR UNA SDA DE SENECA DE UN CURSO A OTRO CURSO</strong></span></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/FzZwcpNLTlw?si=XzGXxXPXM7VPYPLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>EXPORTAR ACTIVIDADES EVALUABLES DESDE LA SDA DE SENECA AL CUADERNO DE SENECA</strong></span></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/slVVje7DgJQ?si=cRNSI4Y3Sz75B5vz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>CREAR CATEGORIAS EVALUABLES PARA EL CUADERNO DE SENECA</strong></span></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/W1H36VvKJFE?si=REW8cubbS_7CW72g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>CREAR ACTIVIDADES EVALUABLES CUADERNO DE SENECA Y EVALUARLAS</strong></span></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/UmkS33UCWdQ?si=UzUkvvOPg-hsDiMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>COMPROBAR CRITERIOS EVALUADOS EN SENECA</strong></span></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/KT1S8kuxb2g?si=alsLR7oBJWeD7Pa7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mshenzok-e8xbnd4pt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\">ACTIVACIÓN CORREO CORPORATIVO</span></span></strong><span style=\"text-decoration: underline;\"></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><span style=\"color: #000000; text-decoration: underline;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/XgOWW1Ro3wo\" allowfullscreen=\"allowfullscreen\"></iframe><br /></span></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>COPIAR UNA SDA DE SENECA DE UN CURSO A OTRO CURSO</strong></span></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FzZwcpNLTlw?si=XzGXxXPXM7VPYPLM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>EXPORTAR ACTIVIDADES EVALUABLES DESDE LA SDA DE SENECA AL CUADERNO DE SENECA</strong></span></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/slVVje7DgJQ?si=cRNSI4Y3Sz75B5vz\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>CREAR CATEGORIAS EVALUABLES PARA EL CUADERNO DE SENECA</strong></span></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/W1H36VvKJFE?si=REW8cubbS_7CW72g\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>CREAR ACTIVIDADES EVALUABLES CUADERNO DE SENECA Y EVALUARLAS</strong></span></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UmkS33UCWdQ?si=UzUkvvOPg-hsDiMO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>COMPROBAR CRITERIOS EVALUADOS EN SENECA</strong></span></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KT1S8kuxb2g?si=alsLR7oBJWeD7Pa7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -30429,6 +30439,57 @@
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mshenzod-kf5w218ok</odePageId>
+      <odeBlockId>block-mteq13yq-kzxe9hnjb</odeBlockId>
+      <blockName>Contenidos del apartado.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mshenzod-kf5w218ok</odePageId>
+          <odeBlockId>block-mteq13yq-kzxe9hnjb</odeBlockId>
+          <odeIdeviceId>idevice-1788028546128-hd3dc8at5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt;" title="">📄 <a href="exe-node:page-mshenzod-4rm3r4ybx" title="">Presentación Anexo I </a></span></p>
+<p><span style="font-size: 14pt;">🤝 <a href="exe-node:page-mshenzod-snpgyjq6l" target="_blank" title="" rel="noopener">Apoyos al centro </a></span></p>
+<p><span style="font-size: 14pt;">👨‍👩‍👧 <a href="exe-node:page-mteqqsv6-2pzwu5cnt" target="_blank" title="" rel="noopener">Tutorías de familias desde Séneca</a></span></p>
+<p><span style="font-size: 14pt;">⚠️ <a href="exe-node:page-msn161xx-h3yu7cmt8" title="">Protocolo Séneca ante la detección de NEAE</a></span></p>
+<p><span style="font-size: 14pt;">📂 <a href="exe-node:page-mshenzod-mao4rpkud" target="_blank" title="" rel="noopener">Documentación útil</a></span></p>
+<p><span style="font-size: 14pt;">📊 <a href="exe-node:page-mshenzod-rwyjxfssu" title="">Evaluación </a></span></p>
+<p><span style="font-size: 14pt;">🗄️ <a href="exe-node:page-mshenzod-lrx24lrx5" target="_blank" title="" rel="noopener">Repositorio Documental </a></span></p>
+<p><span style="font-size: 14pt;">📖 <a href="exe-node:page-mshenzod-kt08dnwba" target="_blank" title="" rel="noopener">Eficacia Lectora 26-27</a></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788028546128-hd3dc8at5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\" title=\"\">📄 <a href=\"exe-node:page-mshenzod-4rm3r4ybx\" title=\"\">Presentación Anexo I </a></span></p>\n<p><span style=\"font-size: 14pt;\">🤝 <a href=\"exe-node:page-mshenzod-snpgyjq6l\" target=\"_blank\" title=\"\" rel=\"noopener\">Apoyos al centro </a></span></p>\n<p><span style=\"font-size: 14pt;\">👨‍👩‍👧 <a href=\"exe-node:page-mteqqsv6-2pzwu5cnt\" target=\"_blank\" title=\"\" rel=\"noopener\">Tutorías de familias desde Séneca</a></span></p>\n<p><span style=\"font-size: 14pt;\">⚠️ <a href=\"exe-node:page-msn161xx-h3yu7cmt8\" title=\"\">Protocolo Séneca ante la detección de NEAE</a></span></p>\n<p><span style=\"font-size: 14pt;\">📂 <a href=\"exe-node:page-mshenzod-mao4rpkud\" target=\"_blank\" title=\"\" rel=\"noopener\">Documentación útil</a></span></p>\n<p><span style=\"font-size: 14pt;\">📊 <a href=\"exe-node:page-mshenzod-rwyjxfssu\" title=\"\">Evaluación </a></span></p>\n<p><span style=\"font-size: 14pt;\">🗄️ <a href=\"exe-node:page-mshenzod-lrx24lrx5\" target=\"_blank\" title=\"\" rel=\"noopener\">Repositorio Documental </a></span></p>\n<p><span style=\"font-size: 14pt;\">📖 <a href=\"exe-node:page-mshenzod-kt08dnwba\" target=\"_blank\" title=\"\" rel=\"noopener\">Eficacia Lectora 26-27</a></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
@@ -30722,10 +30783,77 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-mteqqsv6-2pzwu5cnt</odePageId>
+  <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
+  <pageName>Tutorías de familias desde Séneca</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tutorías de familias desde Séneca</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mteqqsv6-2pzwu5cnt</odePageId>
+      <odeBlockId>block-mter0yb9-q3oss635u</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mteqqsv6-2pzwu5cnt</odePageId>
+          <odeBlockId>block-mter0yb9-q3oss635u</odeBlockId>
+          <odeIdeviceId>idevice-1788030218419-t77bc5b9x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os dejo información relacionada con el modulo de tutorías con las familias de Séneca, para una correcto uso debemos primero se debe activar y configurar el módulo desde el Equipo Directivo y después realizar la configuración por parte del maestro/a.</p>
+<p><strong>1.- CONFIGURACIÓN DEL MÓDULO POR PARTE DEL PROFESORADO.</strong></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/u9sK0Li1lxY?si=5XFhlazWVxeDXyBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>2.- SEGUIMIENTO POR PARTE DEL PROFESORADO:</strong></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/AOatsU7FhBw?si=WoL6lFTwtgVjP8s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>3.- GENERACIÓN DEL ACTA DE ASISTENCIA.</strong></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/IaZSx-yKIHc?si=gBdVXhl8BJXluvWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong>4.- IPASEN VISION DE LA FAMILIAS</strong><strong></strong></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/WRvJEhelN0Y?si=iNQHvMmAgNfkJwhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1788030218419-t77bc5b9x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo información relacionada con el modulo de tutorías con las familias de Séneca, para una correcto uso debemos primero se debe activar y configurar el módulo desde el Equipo Directivo y después realizar la configuración por parte del maestro/a.</p>\n<p><strong>1.- CONFIGURACIÓN DEL MÓDULO POR PARTE DEL PROFESORADO.</strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/u9sK0Li1lxY?si=5XFhlazWVxeDXyBw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>2.- SEGUIMIENTO POR PARTE DEL PROFESORADO:</strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AOatsU7FhBw?si=WoL6lFTwtgVjP8s3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>3.- GENERACIÓN DEL ACTA DE ASISTENCIA.</strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IaZSx-yKIHc?si=gBdVXhl8BJXluvWk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>4.- IPASEN VISION DE LA FAMILIAS</strong><strong></strong></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WRvJEhelN0Y?si=iNQHvMmAgNfkJwhM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>page-msn161xx-h3yu7cmt8</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Protocolo Seneca ante la detección NEAE</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -30911,7 +31039,7 @@
   <odePageId>page-mshenzod-mao4rpkud</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Documentación útil</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31008,7 +31136,7 @@
   <odePageId>page-mshenzod-rwyjxfssu</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Evaluación</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31046,7 +31174,7 @@
   <odePageId>page-mshenzod-lrx24lrx5</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Repositorio Documental</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -31142,7 +31270,7 @@
   <odePageId>page-mshenzod-kt08dnwba</odePageId>
   <odeParentPageId>page-mshenzod-kf5w218ok</odeParentPageId>
   <pageName>Eficacia Lectora</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
